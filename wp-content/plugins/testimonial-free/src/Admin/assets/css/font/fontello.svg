@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="rt" unicode="&#xe800;" d="M1172 850h-491c-32 0-56-27-56-56v-252c0-32 27-57 56-57h43v-99c0-8 5-13 11-16 2 0 5-3 8-3 5 0 8 3 10 6l132 112h287c32 0 56 27 56 57v252c0 29-27 56-56 56z m-352-174l-26-27 5-35c0-3 0-5-3-8 0 0-2 0-5 0h-3l-32 16-29-13c-3 0-6 0-8 0-3 2-3 5-3 8l5 35-27 26c-2 3-2 6-2 9 2 0 5 2 8 2l37 6 16 32c0 2 3 2 6 2s5-2 5-2l16-32 38-6c2 0 5-2 5-5 0-3 0-6-3-8z m167 0l-27-27 5-35c0-3 0-5-2-8 0 0-3 0-6 0h-3l-32 16-29-13c-3 0-6 0-8 0-3 2-3 5-3 8l5 35-26 26c-3 3-3 6-3 9s3 5 5 5l38 5 16 32c0 3 3 3 5 3 3 0 6-3 6-3l16-32 40-8c3 0 5-2 5-5 0-3 0-6-2-8z m166 0l-27-27 5-35c0-3 0-5-2-8 0 0-3 0-6 0h-2l-32 16-30-13c-3 0-5 0-8 0-3 2-3 5-3 8l6 35-27 26c-3 3-3 6-3 9 0 2 3 5 6 5l37 5 16 32c0 3 3 3 6 3s5-3 5-3l16-32 40-8c3 0 6-2 6-5 0-3 0-6-3-8z m-762 0c-120 0-187-62-185-183 3-163 73-262 185-262 0 0 185-8 185 262 0 121-61 183-185 183z m328-569l-185 73-43 37c-11 11-30 8-41-2l-59-59-61 59c-11 10-27 10-40 2l-41-37-185-75c-59-24-59-236-64-255h786c-6 21-6 233-67 257z" horiz-adv-x="1228" />
+</font>
+</defs>
+</svg>

@@ -1,0 +1,113 @@
+.sp-testimonial-section a{
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.sp-testimonial-section .clear{
+    clear: both;
+}
+
+.sp-testimonial-section .text-center {
+    text-align: center;
+}
+
+.sp-testimonial-section{
+    padding: 0 30px;
+}
+
+.sp-testimonial-section .testimonial-free{
+    margin: 0 15px;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.sp-testimonial-section .testimonial-free:focus,
+.sp-testimonial-section .slick-dots li button:focus{
+    outline: none;
+}
+
+.sp-testimonial-section .testimonial-free .tf-client-name{
+    color: #343434;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.sp-testimonial-section .testimonial-free .tf-client-designation{
+    color: #999999;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-top: 14px;
+    line-height: 16px;
+}
+
+.sp-testimonial-section .slick-prev,
+.sp-testimonial-section .slick-next{
+    font-size: 26px;
+    line-height: 26px;
+    color: #444444;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    text-align: center;
+    position: absolute;
+    z-index: 9;
+    cursor: pointer;
+    top: 50%;
+    margin-top: -14px;
+}
+.sp-testimonial-section .slick-prev:hover,
+.sp-testimonial-section .slick-next:hover{
+    color: #1595ce;
+}
+.sp-testimonial-section .slick-prev{
+    left: 0;
+}
+.sp-testimonial-section .slick-next{
+    right: 0;
+}
+
+.sp-testimonial-section .slick-dots{
+    margin: 0;
+    margin-top:20px;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.sp-testimonial-section .slick-dots li{
+    display: inline-block;
+    border: 0;
+    padding: 0;
+    width: 12px;
+    height: 12px;
+    margin: 3px;
+    overflow: hidden;
+}
+.sp-testimonial-section .slick-dots li button{
+    border-radius: 50%;
+    text-indent: -999px;
+    width: 12px;
+    height: 12px;
+    padding: 0;
+    border: 0;
+    background: #cccccc;
+    display: block;
+}
+.sp-testimonial-section .slick-dots li.slick-active button{
+    background: #1595ce;
+}
+
+/* Image Style */
+.sp-testimonial-section .tf-client-image{
+    max-width: 90px;
+    max-height: 90px;
+    margin: 0 auto 20px;
+}
+.sp-testimonial-section .tf-client-image img{
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+}
