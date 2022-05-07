@@ -1,0 +1,191 @@
+/* Start Testimonial Card 1 CSS */ 
+.testimonial-card-style-1 .feedback .testimonial-description {
+    position: relative;
+    padding: 20px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 8px 30px -20px rgba(0,0,0,.5);
+    -moz-box-shadow: 0 8px 30px -20px rgba(0,0,0,.5);
+    box-shadow: 0 8px 30px -20px rgba(0,0,0,.5);
+}
+.testimonial-card-style-1 .bg-color {
+    background-color: #f8f9fa;
+    position: relative;
+}
+.testimonial-card-style-1 .feedback p {
+    margin-bottom: 0;
+}
+.testimonial-card-style-1 .iq-mt-30 {
+    margin-top: 30px;
+}
+.testimonial-card-style-1 .feedback .iq-avtar {
+    width: 60px;
+    display: inline-block;
+    text-align: center;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    float: left;
+}
+.testimonial-card-style-1 .iq-mr-20 {
+    margin-right: 20px!important;
+}
+.testimonial-card-style-1 .feedback .iq-avtar img {
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+}
+.testimonial-card-style-1 .img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.testimonial-card-style-1 .feedback .avtar-name {
+    display: table-cell;
+}
+.testimonial-card-style-1 .feedback .iq-lead {
+    font-size: 18px;
+}
+.testimonial-card-style-1 .iq-lead {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    color: #02d871;
+}
+.testimonial-card-style-1 .iq-lead {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+.testimonial-card-style-1 .iq-tw-6 {
+    font-weight: 600;
+}
+.testimonial-card-style-1 .iq-star i {
+    margin-right: 4px;
+}
+.testimonial-card-style-1 .fa-star:before {
+    content: "\f005";
+}
+.testimonial-card-style-1 .testimonial-box-shape  {
+    content: "";
+    position: absolute;
+    z-index: 9;
+    bottom: -15px;
+    left: 5%;
+    height: 0;
+    width: 0;
+    border-bottom: 15px solid #fff;
+    border-right: 15px solid transparent;
+}
+/* End Testimonial Card 1 CSS */ 
+
+/* Start Testimonial Card 2 CSS */ 
+.testimonial-card-style-2 .media .media-left img {
+    width: 120px;
+}
+.testimonial-card-style-2 .iq-ml-10 {
+    margin-left: 10px;
+}
+.testimonial-card-style-2 .iq-ml-10 {
+    margin-left: 10px;
+}
+.testimonial-card-style-2 .media {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.testimonial-card-style-2 .media .media-body .blog {
+    border-left: 2px solid #ddd;
+    padding-left: 10px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.testimonial-card-style-2 .media .media-body {
+    -ms-flex: 1;
+    flex: 1;
+}
+.testimonial-card-style-2 .name {
+    color: #02d871;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+}
+/* End Testimonial Card 2 CSS */ 
+
+/* Start Testimonial Card 6 CSS */
+
+.testimonial6{
+    text-align: center;
+    margin: 20px 30px 40px;
+}
+
+.testimonial6 .pic{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    border: 4px solid #6b2014;
+    box-shadow: 0 7px rgba(0, 0, 0, 0.1), 0 5px #e4ac01;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+.testimonial6 .pic img{
+    width: 100%;
+    height: 100%;
+}
+.testimonial6 .description{
+    padding: 0 20px 20px;
+    font-size: 15px;
+    color: #333;
+    line-height: 30px;
+    border-radius: 25px;
+    border-bottom: 4px solid #6b2014;
+    box-shadow: 0 7px rgba(0, 0, 0, 0.1), 0 5px #e4ac01;
+    margin-bottom: 25px;
+}
+.testimonial6 .name{
+    display: block;
+    margin: 0 0 7px 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: #6b2014;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.testimonial6 .post{
+    display: block;
+    font-size: 15px;
+    color: #e4ac01;
+    text-transform: capitalize;
+}
+
+/* End Testimonial Card 6 CSS */
+
+.testimonial-card-style-pro .buy-suggest {
+	margin-top:30px;
+	color:#a4afb7;
+	font-size: 16px;
+}
+.testimonial-card-style-pro .buy-link {
+	color:#7f225e;
+	font-weight:700;
+	text-decoration: none;
+}
+.testimonial-card-style-pro .live-preview {
+	background: linear-gradient(to top left, #ea1f4f 0%, #2f2569 100%);
+	border: none;
+	padding: 5px 30px;
+}
+.testimonial-card-style-pro .live-preview:hover {
+	background: linear-gradient(to top left, #ea1f4f 30%, #2f2569 100%);
+	box-shadow: 2px 2px 10px 2px #888888;
+}
+.testimonial-card-style-pro .live-preview .preview-link {
+	font-size:16px;
+	color:#fff;
+	text-decoration: none;
+	font-family: Roboto, sans-serif;
+}

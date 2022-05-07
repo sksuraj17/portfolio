@@ -1,0 +1,37 @@
+.elementor-control-image-selector-wrapper input[type="radio"] {
+	display: none;
+}
+
+.elementor-label-block .elementor-control-image-selector-wrapper {
+	width: 100%;
+	margin-top: 10px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+
+.elementor-control-image-selector-wrapper .elementor-image-selector-label {
+	display: inline-block;
+	border: 4px solid rgba(164, 175, 184, 0.3);
+	cursor: pointer;
+	overflow: hidden;
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 calc(33.33% - 10px);
+	flex: 0 0 calc(33.33% - 10px);
+	max-width: calc(33.33% - 10px);
+	margin: 0 5px 10px;
+	background: #fff;
+}
+
+.elementor-control-image-selector-wrapper input:checked + .elementor-image-selector-label {
+	border: 4px solid #2271b1;
+}
+
+.elementor-panel .tss-description.elementor-control-field-description {
+	color: #6d7882;
+	margin-top: 0;
+	margin-bottom: 10px;
+	font-size: 13px;
+}
