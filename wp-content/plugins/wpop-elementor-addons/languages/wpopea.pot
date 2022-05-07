@@ -1,0 +1,305 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPOP Elementor Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-11 17:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0"
+
+#. URI of the plugin
+msgid "#"
+msgstr ""
+
+#: elements/product-info.php:288
+msgid "Add to Cart Button Styles"
+msgstr ""
+
+#: elements/opstore-products.php:414
+msgid "All"
+msgstr ""
+
+#: elements/opstore-products.php:140
+msgid "Auto Slide"
+msgstr ""
+
+#: elements/opstore-products.php:292 elements/product-info.php:306
+#: elements/product-info.php:333
+msgid "Background Color"
+msgstr ""
+
+#: elements/opstore-blog.php:129
+msgid "Block Title Color"
+msgstr ""
+
+#: elements/opstore-blog.php:121 elements/opstore-products.php:228
+msgid "Block Title Styles"
+msgstr ""
+
+#: elements/product-info.php:135
+msgid "Border Radius"
+msgstr ""
+
+#: elements/opstore-products.php:44
+msgid "Carousel"
+msgstr ""
+
+#: elements/opstore-blog.php:51 elements/opstore-products.php:69
+msgid "Categories"
+msgstr ""
+
+#: elements/opstore-blog.php:42 elements/opstore-products.php:60
+#: elements/product-info.php:47
+msgid "Category"
+msgstr ""
+
+#: elements/opstore-products.php:185 elements/opstore-products.php:211
+msgid "Center"
+msgstr ""
+
+#: elements/product-info.php:150
+msgid "Color &amp; Typography"
+msgstr ""
+
+#: elements/opstore-blog.php:114
+msgid "Colors & Typography"
+msgstr ""
+
+#: elements/opstore-products.php:202
+msgid "Content Align"
+msgstr ""
+
+#: elements/product-info.php:115
+msgid "Content Background Color"
+msgstr ""
+
+#: elements/opstore-blog.php:31 elements/opstore-products.php:33
+msgid "Display Settings"
+msgstr ""
+
+#: elements/opstore-products.php:40
+msgid "Display Style"
+msgstr ""
+
+#: elements/opstore-blog.php:101
+msgid "Excerpt Length"
+msgstr ""
+
+#: elements/opstore-products.php:59 elements/product-info.php:46
+msgid "Featured"
+msgstr ""
+
+#: elements/opstore-products.php:261 elements/product-info.php:329
+msgid "Hover"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpoperation.com"
+msgstr ""
+
+#: elements/opstore-blog.php:41 elements/opstore-products.php:57
+#: elements/product-info.php:44
+msgid "Latest"
+msgstr ""
+
+#: elements/opstore-products.php:181 elements/opstore-products.php:207
+msgid "Left"
+msgstr ""
+
+#: elements/opstore-blog.php:90
+msgid "No"
+msgstr ""
+
+#: elements/opstore-products.php:102
+msgid "No. of Column"
+msgstr ""
+
+#: elements/opstore-blog.php:74
+msgid "No. of Columns"
+msgstr ""
+
+#: elements/opstore-products.php:131
+msgid "No. of Item to Slide"
+msgstr ""
+
+#: elements/opstore-blog.php:65
+msgid "No. of Posts"
+msgstr ""
+
+#: elements/opstore-products.php:83
+msgid "No. of Product"
+msgstr ""
+
+#: elements/opstore-products.php:43 elements/opstore-products.php:243
+#: elements/product-info.php:302
+msgid "Normal"
+msgstr ""
+
+#: elements/opstore-products.php:93 elements/product-info.php:82
+msgid "Offset Value"
+msgstr ""
+
+#: elements/opstore-blog.php:13
+msgid "Opstore Blog"
+msgstr ""
+
+#: elements/product-info.php:16
+msgid "Opstore Product Lists"
+msgstr ""
+
+#: elements/opstore-products.php:9
+msgid "Opstore Products"
+msgstr ""
+
+#: elements/opstore-blog.php:38
+msgid "Post Type"
+msgstr ""
+
+#: elements/product-info.php:56
+msgid "Product Categories"
+msgstr ""
+
+#: elements/product-info.php:186
+msgid "Product Price"
+msgstr ""
+
+#: elements/product-info.php:195
+msgid "Product Price Color"
+msgstr ""
+
+#: elements/product-info.php:34
+msgid "Product Settings"
+msgstr ""
+
+#: elements/opstore-products.php:169
+msgid "Product Styling"
+msgstr ""
+
+#: elements/product-info.php:158
+msgid "Product Title"
+msgstr ""
+
+#: elements/product-info.php:166
+msgid "Product Title Color"
+msgstr ""
+
+#: elements/opstore-products.php:54 elements/product-info.php:41
+msgid "Product Type"
+msgstr ""
+
+#: elements/product-info.php:70
+msgid "Products Count"
+msgstr ""
+
+#: elements/product-info.php:107
+msgid "Products Styles"
+msgstr ""
+
+#: elements/product-info.php:223
+msgid "Rating Color"
+msgstr ""
+
+#: elements/opstore-products.php:189 elements/opstore-products.php:215
+msgid "Right"
+msgstr ""
+
+#: elements/product-info.php:244
+msgid "Sale Badge"
+msgstr ""
+
+#: elements/product-info.php:264
+msgid "Sale Badge Background"
+msgstr ""
+
+#: elements/product-info.php:252
+msgid "Sale Badge Color"
+msgstr ""
+
+#: elements/opstore-products.php:285
+msgid "Sale Tag"
+msgstr ""
+
+#: elements/opstore-products.php:158
+msgid "Show Arrow"
+msgstr ""
+
+#: elements/opstore-blog.php:82
+msgid "Show excerpt"
+msgstr ""
+
+#: elements/opstore-products.php:149
+msgid "Show Pager"
+msgstr ""
+
+#: elements/product-info.php:94
+msgid "Show Product Rating?"
+msgstr ""
+
+#: elements/opstore-products.php:122
+msgid "Slide to Show"
+msgstr ""
+
+#: elements/opstore-products.php:115
+msgid "Slider Settings"
+msgstr ""
+
+#: elements/product-info.php:215
+msgid "Star Rating"
+msgstr ""
+
+#: elements/opstore-products.php:45
+msgid "Tabs"
+msgstr ""
+
+#: elements/opstore-products.php:307 elements/product-info.php:318
+#: elements/product-info.php:345
+msgid "Text Color"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is Elementor addons for Wpoperation Themes."
+msgstr ""
+
+#: elements/opstore-products.php:176
+msgid "Title Align"
+msgstr ""
+
+#: elements/opstore-products.php:247
+msgid "Title Color"
+msgstr ""
+
+#: elements/opstore-blog.php:142 elements/opstore-products.php:265
+msgid "Title Hover Color"
+msgstr ""
+
+#: elements/opstore-blog.php:156 elements/opstore-products.php:237
+msgid "Title Typography"
+msgstr ""
+
+#: elements/opstore-products.php:58 elements/product-info.php:45
+msgid "Trending"
+msgstr ""
+
+#. Name of the plugin
+msgid "WPOP Elementor Addons"
+msgstr ""
+
+#: elements/helpers.php:8
+msgid "WPOP Elements"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wpoperation"
+msgstr ""
+
+#: elements/opstore-blog.php:86
+msgid "Yes"
+msgstr ""

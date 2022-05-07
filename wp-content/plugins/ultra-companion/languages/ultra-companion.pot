@@ -1,0 +1,286 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Companion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-14 15:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: inc/meta/ultra-page-meta.php:65 inc/meta/ultra-post-meta.php:68
+msgid "About Metabox Options"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:181
+msgid "Add Images"
+msgstr ""
+
+#: inc/theme-functions.php:54
+msgid "Author Designation"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:75 inc/meta/ultra-post-meta.php:78
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/theme-functions.php:14
+msgid "Behance"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:37 inc/meta/ultra-post-meta.php:37
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/theme-functions.php:15
+msgid "Delicious"
+msgstr ""
+
+#: inc/theme-functions.php:16
+msgid "Deviantart"
+msgstr ""
+
+#: inc/theme-functions.php:17
+msgid "Digg"
+msgstr ""
+
+#: inc/theme-functions.php:18
+msgid "Dribbble"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:147
+msgid "Embed audio"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:144
+msgid "Embed audio url"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:158
+msgid "Embed gallery images."
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:133
+msgid "Embed video url"
+msgstr ""
+
+#: inc/theme-functions.php:19
+msgid "Facebook"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:127
+msgid "Fields for Post Format"
+msgstr ""
+
+#: inc/theme-functions.php:20
+msgid "Flickr"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:143
+msgid "For Audio Format"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:157
+msgid "For Gallery Format"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:132
+msgid "For Video Format"
+msgstr ""
+
+#: inc/theme-functions.php:21
+msgid "Github"
+msgstr ""
+
+#: inc/theme-functions.php:22
+msgid "Google+"
+msgstr ""
+
+#: inc/theme-functions.php:23
+msgid "Html5"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpoperation.com/"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:59 inc/meta/ultra-post-meta.php:61
+msgid "Information"
+msgstr ""
+
+#: inc/theme-functions.php:24
+msgid "Instagram"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:47 inc/meta/ultra-post-meta.php:47
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/theme-functions.php:25
+msgid "Linkedin"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:52 inc/meta/ultra-post-meta.php:52
+msgid "No sidebar Full width"
+msgstr ""
+
+#. $id
+#: inc/meta/ultra-page-meta.php:16
+msgid "Page Options"
+msgstr ""
+
+#: inc/theme-functions.php:26
+msgid "Paypal"
+msgstr ""
+
+#: inc/theme-functions.php:27
+msgid "Pinterest"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:138
+msgid ""
+"Please use youtube/vimeo video url ( https://www.youtube.com/watch?v=x7O-"
+"uwAJ4Pw )."
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:63
+msgid "Post Format"
+msgstr ""
+
+#. $id
+#: inc/meta/ultra-post-meta.php:16
+msgid "Post Options"
+msgstr ""
+
+#: inc/theme-functions.php:28
+msgid "Reddit"
+msgstr ""
+
+#: inc/meta/ultra-post-meta.php:136 inc/meta/ultra-post-meta.php:148
+msgid "Reset url"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:42 inc/meta/ultra-post-meta.php:42
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/theme-functions.php:29
+msgid "RSS"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:76 inc/meta/ultra-post-meta.php:79
+msgid ""
+"Select available sidebar which replaced sidebar layout from customizer "
+"settings."
+msgstr ""
+
+#: inc/theme-functions.php:30
+msgid "Share"
+msgstr ""
+
+#: inc/theme-functions.php:155
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/theme-functions.php:157
+msgid "Share on Google Plus"
+msgstr ""
+
+#: inc/theme-functions.php:158
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/theme-functions.php:159
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/theme-functions.php:156
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:60 inc/meta/ultra-post-meta.php:62
+msgid "Sidebars"
+msgstr ""
+
+#: inc/meta/ultra-page-meta.php:68 inc/meta/ultra-post-meta.php:71
+msgid "Sidebars is globally available to every post type you create."
+msgstr ""
+
+#: inc/theme-functions.php:31
+msgid "Skype"
+msgstr ""
+
+#: inc/theme-functions.php:32
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/theme-functions.php:33
+msgid "Spotify"
+msgstr ""
+
+#: inc/theme-functions.php:34
+msgid "Stackexchange"
+msgstr ""
+
+#: inc/theme-functions.php:35
+msgid "Stackoverflow"
+msgstr ""
+
+#: inc/theme-functions.php:36
+msgid "Steam"
+msgstr ""
+
+#: inc/theme-functions.php:37
+msgid "StumbleUpon"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is the companion plugin for Ultra Seven WordPress theme"
+msgstr ""
+
+#: inc/theme-functions.php:38
+msgid "Tumblr"
+msgstr ""
+
+#: inc/theme-functions.php:39
+msgid "Twitter"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ultra Companion"
+msgstr ""
+
+#: inc/theme-functions.php:40
+msgid "Vimeo"
+msgstr ""
+
+#: inc/theme-functions.php:41
+msgid "VKontakte"
+msgstr ""
+
+#: inc/theme-functions.php:42
+msgid "Windows"
+msgstr ""
+
+#: inc/theme-functions.php:43
+msgid "Woordpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPoperation"
+msgstr ""
+
+#: inc/theme-functions.php:44
+msgid "Yahoo"
+msgstr ""
+
+#: inc/theme-functions.php:45
+msgid "Youtube"
+msgstr ""

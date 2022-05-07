@@ -1,0 +1,13 @@
+.customize-control-arrival-dimensions > ul { display: inline-block; width: 100%; }
+.customize-control-arrival-dimensions .dimension-wrap { float: left; width: 20%; margin: 0; }
+.customize-control-arrival-dimensions .dimension-wrap input,
+.customize-control-arrival-dimensions .dimension-wrap button { display: block; font-size: 12px; padding: 4px 0; width: 100%; height: 28px; border: 1px solid; border-color: #a4afb7; border-left-width: 0; border-radius: 0; text-align: center; }
+.customize-control-arrival-dimensions .dimension-wrap:first-child input { border-left-width: 1px; border-radius: 3px 0 0 3px; }
+.customize-control-arrival-dimensions .dimension-wrap .dimension-label { display: block; color: #949698; font-size: 10px; padding-top: 5px; font-style: normal; text-transform: uppercase; text-align: center; }
+.customize-control-arrival-dimensions .dimension-wrap input:focus + .dimension-label { color: #42474a; }
+.customize-control-arrival-dimensions .dimension-wrap .link-dimensions { background-color: #fff; border: 1px solid #a4afb7; border-left-width: 0; padding: 0; outline: none; border-radius: 0 3px 3px 0; cursor: pointer; }
+.customize-control-arrival-dimensions .dimension-wrap .link-dimensions span { display: block; width: 100%; height: 32px; line-height: 32px; font-size: 16px; }
+.customize-control-arrival-dimensions .dimension-wrap .link-dimensions .arrival-linked { background-color: #333; color: #fff; }
+.customize-control-arrival-dimensions .dimension-wrap .link-dimensions.unlinked .arrival-unlinked { display: none; }
+.customize-control-arrival-dimensions .dimension-wrap .link-dimensions.unlinked .arrival-linked { display: block; }
+.customize-control-arrival-dimensions .dimension-wrap .link-dimensions .arrival-linked { display: none; }

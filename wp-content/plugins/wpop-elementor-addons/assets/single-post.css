@@ -1,0 +1,168 @@
+/*
+* Single Post Style
+*/
+.wpop-single-post .post-category a {
+  background: #f05555 none repeat scroll 0 0;
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 300;
+  height: 24px;
+  line-height: 24px;
+  padding: 0 9px;
+  text-transform: uppercase;
+  transition: all 0.4s ease 0s;
+}
+
+.wpop-single-post .post-category a:hover {
+    background: #18012c;
+    color: #ffffff;
+}
+
+.wpop-single-post ul.meta {
+  display: flex;
+  list-style: outside none none;
+  margin: 0 -15px;
+  padding: 0;
+}
+.wpop-single-post ul.meta li {
+  font-size: 13px;
+  letter-spacing: 2px;
+  margin: 0 15px;
+}
+.wpop-single-post ul.meta li i {
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.wpop-single-post {
+    position: relative;
+}
+
+.wpop-single-post .thumb {
+    overflow: hidden;
+}
+.wpop-single-post .thumb a{
+  display: block;
+  position: relative;
+}
+.wpop-single-post a{
+  text-decoration: none;
+}
+
+/*.wpop-single-post .thumb a::before {
+  background: #000 none repeat scroll 0 0;
+  content: "";
+  height: 100%;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}*/
+
+.wpop-single-post .thumb a img {
+    transition: 0.4s ease-in-out;
+}
+
+.wpop-single-post:hover .thumb a img {
+    transform: scale(1.2);
+}
+
+/* Single Post Style 01 */
+.wpop-single-post-style-1 .content {
+    position: absolute;
+    bottom: 0;
+    padding: 40px;
+}
+
+.wpop-single-post-style-1 .content h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    line-height: 36px;
+}
+
+.wpop-single-post-style-1 .content h2 a,.wpop-single-post-style-1 .content ul.meta li,.wpop-single-post-style-1 .content ul.meta li a {
+    color: #ffffff;
+}
+
+
+/* Single Post 02 */
+.wpop-single-post-style-2 .content {
+    padding-top: 30px;
+}
+
+.wpop-single-post-style-2 .content h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    line-height: 36px;
+}
+
+.wpop-single-post-style-2 .content h2 a,.wpop-single-post-style-2 .content ul.meta li,.wpop-single-post-style-2 .content ul.meta li a {
+    color: #464545;
+}
+
+/*Single Post 03*/
+.wpop-single-post-style-3 .content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+.wpop-single-post-style-3 .content h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 18px;
+    margin-bottom: 22px;
+    line-height: 34px;
+}
+
+.wpop-single-post-style-3 .content h2 a {
+    color: #ffffff;
+}
+
+.wpop-single-post-style-3 .content ul.meta {
+    justify-content: center;
+}
+
+.wpop-single-post-style-3 .content ul.meta li,.wpop-single-post-style-3 .content ul.meta li a {
+    color: #ffffff;
+}
+
+/*Single Post 04*/
+.wpop-single-post-style-4 .content {
+    background: #ffffff;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.wpop-single-post-style-4 .content h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    line-height: 36px;
+    margin-top: 0px;
+}
+
+.wpop-single-post-style-4 .content h2 a {
+    color: #464545;
+    transition: 0.4s ease-in;
+}
+
+.wpop-single-post-style-4 .content h2 a:hover {
+    color: #18012c;
+}
+
+.wpop-single-post-style-4 .content ul.meta {
+    justify-content: center;
+}
+
+.wpop-single-post-style-4 .content ul.meta li,.wpop-single-post-style-4 .content ul.meta li a {
+    color: #464545;
+}

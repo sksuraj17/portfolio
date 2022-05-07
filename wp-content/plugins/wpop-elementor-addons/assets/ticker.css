@@ -1,0 +1,96 @@
+/* News Ticker */
+.wpopea-ticker .ticker-wrap{
+  padding: 0;
+}
+.wpopea-ticker{
+  display: flex;
+  align-items: center;
+}
+.wpopea-ticker .ticker-label,
+.wpopea-ticker .ticker-wrap{
+  height: 70px;
+  display: flex;
+  align-items: center;
+}
+.wpopea-ticker .ticker-label {
+  width: 140px;
+  color: #fff;
+  padding: 15px;
+  background-color: #000;
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+}
+.wpopea-ticker .ticker-label.icon-right{
+  flex-direction: row-reverse;
+}
+.wpopea-ticker .ticker-label .ico-wrap{
+  margin-right: 10px;
+}
+.wpopea-ticker .ticker-label.icon-right .ico-wrap{
+  margin-right: 0;
+  margin-left: 10px;
+}
+.wpopea-ticker .ticker-wrap{
+  background-color: #f7f7f7;
+  width:calc(100% - 140px);
+  padding-left: 35px;
+}
+.wpopea-ticker .ticker-label:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+  left: 100%;
+  transform: translateY(-50%);
+  border: 10px solid transparent;
+  border-left-color: #000;
+}
+.wpopea-ticker .ticker-label.indicator-off:after{
+  opacity: 0;
+  visibility: hidden;
+}
+.ticker-wrap button.slick-arrow {
+  opacity: 1;
+  visibility: visible;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  box-shadow: none;
+  transform: translateY(15px);
+}
+.ticker-wrap .slick-prev {
+  left: calc(100% - 60px)!important;
+}
+.ticker-wrap .slick-next {
+  left: calc(100% - 35px)!important;
+}
+.ticker-wrap button.slick-arrow:before{
+  color: #000;
+}
+.ticker-item .img-wrap {
+  width: 30px;
+  margin-right: 10px;
+}
+.ticker-wrap .ticker-item a {
+  display: inline-flex;
+  align-items: center;
+}
+.ticker-wrap .ticker-item a .date{
+  display: inline-block;
+  font-size: 14px;
+  background-color: #000;
+  padding: 5px 10px;
+  line-height: 1;
+  color: #fff;
+  margin-left: 10px;
+}
+.arrow-vertical .ticker-wrap button.slick-arrow {
+  left: calc(100% - 35px)!important;
+}
+.arrow-vertical .ticker-wrap .slick-prev{
+  transform: rotate(90deg) translate(10px,15px);
+}
+.arrow-vertical .ticker-wrap .slick-next{
+  transform: rotate(90deg) translate(28px,15px);
+}

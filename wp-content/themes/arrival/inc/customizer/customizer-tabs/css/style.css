@@ -1,0 +1,59 @@
+.customize-control-interface-tabs {
+	display: list-item !important;
+}
+
+.arrival-tabs-control {
+	border-bottom: 1px solid #ddd;
+	width: calc(100% + 28px);
+	margin: -15px 0 0 -12px;
+	table-layout: fixed;
+	display: table;
+}
+
+.arrival-tabs-control .arrival-customizer-tab {
+	border-right: 1px solid #ddd;
+	display: table-cell;
+	text-align: center;
+	width: 100%;
+}
+
+.arrival-tabs-control .arrival-customizer-tab:last-child {
+	border-right: none;
+}
+
+.arrival-tabs-control .arrival-customizer-tab label{
+	text-transform: capitalize;
+	background: #fff;
+	box-shadow: inset 0 0 0 0 #0085ba;
+	transition: all .3s ease;
+	display: block;
+	width: 100%;
+	padding: 10px 0;
+	text-decoration: none;
+	font-weight: 600;
+	color: #333;
+}
+
+.arrival-tabs-control .arrival-customizer-tab label i {
+	color: #333;
+	margin-right: 4px;
+}
+
+.arrival-tabs-control .arrival-customizer-tab label:hover {
+	color: #0085ba;
+	background: #f3f3f5;
+}
+
+.arrival-tabs-control .arrival-customizer-tab label:hover i {
+	color: #333;
+}
+
+.arrival-tabs-control .arrival-customizer-tab input[type="radio"]:checked ~ label {
+	box-shadow: inset 0 -3px 0 0 #0085ba;
+	color: #0085ba;
+	background-color: #fff;
+}
+
+.arrival-tabs-control input[type="radio"] {
+	display: none !important;
+}

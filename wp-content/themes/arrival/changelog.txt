@@ -1,0 +1,172 @@
+=== v1.4.3 ===
+- Fixed security issue
+
+=== v1.4.2 ===
+- Minor Bugs fixed
+
+=== v1.4.1 ===
+- Fixed after top header module alignment issue
+
+=== v1.4.0 ===
+- Updated WooCommerce cart template
+
+=== v1.3.9 ===
+- Minor bugs fixed
+
+=== v1.3.8 ===
+- Fixed JS issue on customizer
+- Fixed minor design issues
+
+=== v1.3.7 ===
+- Minor bugs fixed
+
+=== v1.3.6 ===
+- Refined keyboard navigation
+- Fixed WooCommerce sidebar issue
+
+=== v1.3.5 ===
+- Fixed parallax scrolling menus on mobile devices
+- Fixed minor responsive issues
+
+=== v1.3.4 ===
+- Fixed responsive issue on transparent headers
+- Fixed customizer issue 
+
+=== v1.3.3 ===
+- Added dynamic styles for header color and menu color to match companion plugin metabox settings
+
+
+=== v1.3.2 ===
+- Minor bug fixed
+
+=== v1.3.1 ===
+- Fixed mobile navigation close issue
+
+=== v1.3.0 ===
+- Fixed minor WooCommerce bugs
+
+=== v1.2.9 ===
+- Trapped keyboard focus on mobile menu only when it is open
+
+
+=== v1.2.8 ===
+- Minor bugs fixed
+
+=== v1.2.7 ===
+- Added option to control logo width
+- Added options for single posts
+- Added setting for single pages
+- Added separate sidebar options for blog pages
+- Added option to enable & disable post meta
+- Added option to control sidebar options for shop pages
+
+
+=== v1.2.6 ===
+- Minor refinements
+
+=== v1.2.5 ===
+- Added new hooks for header
+- Fixed submenu issue on edge browser
+
+=== v1.2.4 ===
+- Added option to open social icons on new tab 
+
+=== v1.2.3 === 
+- Changed default email for starter content
+
+=== v1.2.2 === 
+- CSS improvements for theme header
+- Added header last elements on responsive header also
+
+
+=== v1.2.1 === 
+- Added option to show/hide site breadcrumbs
+- Minor CSS improvements
+
+=== v1.2.0 === 
+- Fixed issue on customizer scripts
+- Checked and added compatiblity with WordPress 5.3
+
+=== v1.1.9 === 
+- Minor bugs fixed
+
+=== v1.1.8 === 
+- Fixed skip to content issue
+
+=== v1.1.7 === 
+- Minor bugs fixed
+- Fixed compatiblity issue with premium addons
+
+
+=== v1.1.6 === 
+- Minor bugs fixed
+
+
+=== v1.1.5 === 
+- Replaced header padding input with slider UI
+- Minor bugs fixed
+
+
+=== v1.1.4 === 
+- Minor bugs fixed
+- Added premium version link
+
+
+=== v1.1.3 === 
+- Fixed footer fontawesome issue
+- Fixed single page comment template issue
+
+=== v1.1.2 === 
+- Fixed sidebar issue on metabox
+- Minor css improvements
+- Changed customizer setting "Navigation Options" to "Header Options"
+- Removed fontawesome icons
+- Added SVG icons
+
+=== v1.1.1 ===
+- Added custom header option
+- Added custom footer option
+- Minor bugs fixed
+
+=== v1.1.0 ===
+- Added cart position control option 
+- Minor CSS improvements
+
+=== v1.0.9 ===
+- Added Smooth Scroll
+- Added RTL Support
+
+=== v1.0.8 ===
+- Minor bugs fixed
+- Ion icons added
+- Removed XML files
+- Refined theme with more hooks & filters
+
+=== v1.0.7 ===
+- Minor bugs fixed
+
+
+=== v1.0.6 ===
+- Minor bugs fixed
+- Added more hooks and filters for developers
+
+=== v1.0.5 ===
+- Minor bugs fixed
+
+=== v1.0.4 ===
+- Fixed sanitization issue
+
+=== v1.0.3 ===
+- Minor Bugs Fixed
+
+=== v1.0.2 ===
+- Minor Bugs Fixed
+- Minor CSS Improvements
+
+=== v1.0.1 ===
+- Minor Bugs Fixed
+- Screenshot Image Changed
+
+
+=== v1.0.0 ===
+- Initial Release

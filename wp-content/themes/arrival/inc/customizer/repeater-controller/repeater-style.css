@@ -1,0 +1,297 @@
+/**
+ * Repeater Custom Control Style
+*/
+.customize-control-repeater .customize-control-title{
+  width: 96%;
+  background: #787878;
+  padding: 5px;
+  border-radius: 2px;
+  color: #fff;
+}
+#customize-controls ul.operation-repeater-field-control-wrap span.description.customize-control-description {
+    margin-top: 0;
+    padding: 0 5px;
+    font-size: 12px;
+}
+#customize-controls ul.operation-repeater-field-control-wrap .has-desc{
+  padding-bottom: 0;
+}
+.operation-repeater-field-control{
+  background: #FFF;
+  margin-bottom: 12px;
+  display: block;
+}
+.operation-repeater-footer{
+  margin-top: 15px;
+  text-align: right;
+}
+.operation-repeater-field-control:first-child .operation-repeater-footer{
+  display: none;
+}
+.operation-repeater-field-title{
+  padding: 13px 15px;
+  line-height: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0;
+  font-size: 1em;
+  border: 1px solid #e5e5e5;
+  cursor: move;
+  position: relative;
+  border-bottom: 0;
+}
+.operation-repeater-field-title:after {
+  content: "\f142";
+  font: 400 20px/1 dashicons;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 1px 2px 1px 0;
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.operation-repeater-field-control.expanded .operation-repeater-field-title:after{
+  content: "\f140";
+}
+
+.operation-repeater-fields{
+  padding: 0 10px 10px;
+  border-top: none;
+  line-height: 16px;
+  border: 1px solid #e5e5e5;
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+          box-shadow: 0 1px 1px rgba(0,0,0,.04);
+  display: none;
+}
+.operation-repeater-fields .customize-control-title{
+  margin-top: 10px;
+}
+.operation-repeater-field-control.expanded .operation-repeater-fields{
+  display: block;
+}
+.operation-add-control-field {
+  float: right;
+}
+.operation-add-control-field:before {
+    content: "\f132";
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: -1px;
+    margin-right: 4px;
+    font-family: dashicons;
+    vertical-align: middle;
+}
+.operation-fields textarea{
+  width: 100%;
+  min-height: 100px;
+}
+.operation-fields select{
+  width: 100%;
+  min-width: none;
+}
+.operation-type-checkbox{
+  margin-top: 10px;
+}
+.operation-type-checkbox label{
+    line-height: 20px;
+    display: block;
+    margin-left: 24px;
+    padding-top: 6px;
+}
+.operation-type-checkbox input[type=checkbox]{
+    margin-right: 8px;
+    margin-left: -24px;
+}
+.operation-type-selector .selector-labels{
+  margin: 0 -5px;
+}
+.operation-type-selector .selector-labels label{
+  display: inline-block;
+  padding: 10px 5px 0;
+  position: relative;
+  max-width: 50%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.operation-type-selector .selector-labels label img{
+  vertical-align: middle;
+}
+.operation-type-selector .selector-labels label.selector-selected:after{
+  content: "";
+  height: 35px;
+  width: 35px;
+  right: 0;
+  top: 0;
+  position: absolute;
+  background: url(images/selected.png) no-repeat right top;
+}
+.operation-type-radio .radio-labels label{
+  display: block;
+  padding: 5px 0;
+}
+.onoffswitch {
+    position: relative;
+    width: 100px;
+    margin-right: 15px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.onoffswitch-inner {
+    width: 200%;
+    margin-left: -100%;
+    -webkit-transition: margin .3s ease-in 0s;
+    transition: margin .3s ease-in 0s
+}
+.onoffswitch-inner > div {
+    float: left;
+    position: relative;
+    width: 50%;
+    height: 24px;
+    padding: 0;
+    line-height: 24px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 700;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+.onoffswitch-inner .onoffswitch-active {
+    background-color: #d4d4d4;
+    color: #FFF
+}
+.onoffswitch-inner .onoffswitch-inactive {
+    background-color: #d4d4d4;
+    color: #FFF;
+    text-align: right
+}
+.onoffswitch-switch {
+    width: 50px;
+    margin: 0;
+    text-align: center;
+    border: 0 solid #999;
+    border-radius: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0
+}
+.onoffswitch-active .onoffswitch-switch {
+    background: #0073aa;
+    left: 0
+}
+.onoffswitch-inactive .onoffswitch-switch {
+    background: #7D7D7D;
+    right: 0
+}
+.switch-on .onoffswitch-inner {
+    margin-left: 0
+}
+.customize-control-fields {
+    padding: 5px;
+    display: block;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+}
+.customize-control input[type=number] {
+    width: 40%;
+}
+/** =============================================== Icon Picker ================================ **/
+
+.operation-icon-list {
+    height: 200px;
+    display: block;
+    overflow-y: scroll;
+    background: #fff;
+    border: 1px solid #CCCCCC;
+    width: 100%;
+}
+
+ul.operation-icon-list li {
+    display: block;
+    float: left;
+    padding: 14px;
+    height: 19px;
+    width: 19px;
+    font-size: 19px;
+    text-align: center;
+    border-radius: 50%;
+
+}
+ul.operation-icon-list li:hover {
+    cursor: pointer;
+}
+.operation-selected-icon span {
+    margin-left: 10px;
+}
+.operation-selected-icon {
+    background: #0e90ad;
+    padding: 10px;
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+ul.operation-repeater-field-control-wrap {
+    margin-top: 10px;
+}
+.operation-icon-list li:hover {
+    background: #0e90ad;
+    color: #fff;
+}
+.operation-repeater-footer a {
+    text-decoration: none;
+    color: #fff;
+    padding: 4px 7px;
+    border-radius: 3px;
+    -webkit-transition: all 0.3s;
+            transition: all 0.3s;
+}
+.operation-repeater-footer a.operation-repeater-field-remove {
+    background: #f14343;
+}
+.operation-repeater-footer a.operation-repeater-field-close {
+    background: #0e90ad;
+    margin-left: 8px;
+}
+.operation-repeater-footer a:hover {
+    opacity: 0.7;
+}
+.operation-selected-icon span {
+    float: right;
+}
+.clr:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+h3.operation-repeater-field-title span.field-value {
+    margin-left: 25px;
+    color: #333;
+}
+/* repeater social icons scrollbar */
+.operation-icon-list::-webkit-scrollbar{ 
+    width: 5px !important; 
+}
+
+.operation-icon-list::-webkit-scrollbar-track{ 
+    -webkit-box-shadow: inset 0 0 0 rgba(0,0,0,0.3) !important;  
+    width: 20px !important; 
+}
+.operation-icon-list::-webkit-scrollbar-thumb{ 
+    border-radius: 0 !important; 
+    background-color: #d8d8d8 !important; 
+}
+.operation-icon-list::-webkit-thumb:window-inactive{ 
+    background-color: #fff !important; 
+}
+span.icon-preview {
+    float: none;
+    background: #fff;
+    padding: 8px;
+    display: inline-block;
+    border-radius: 50%;
+}

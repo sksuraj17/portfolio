@@ -1,0 +1,232 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Operation Demo Importer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-21 09:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.3-alpha-45488"
+
+#: includes/demos.php:387
+msgid "Activate"
+msgstr ""
+
+#: includes/demos.php:398
+msgid "Activated"
+msgstr ""
+
+#: includes/demos.php:105
+msgid "Activating"
+msgstr ""
+
+#: includes/demos.php:106
+msgid "Active"
+msgstr ""
+
+#: classes/class-install-demos.php:71
+msgid "All"
+msgstr ""
+
+#: includes/demos.php:902
+msgid "Can not retrieve class-wp-importer.php"
+msgstr ""
+
+#: includes/demos.php:850 classes/importers/class-smartslider-importer.php:23
+msgid ""
+"Can not retrieve sample data xml file. The server may be down at the moment "
+"please try again later. If you still have issues contact the theme developer "
+"for assistance."
+msgstr ""
+
+#: includes/demos.php:913
+msgid "Can not retrieve wordpress-importer.php"
+msgstr ""
+
+#: includes/demos.php:358
+msgid "Demo Imported!"
+msgstr ""
+
+#. Description of the plugin
+msgid "Demo Importer For WPoperation Themes"
+msgstr ""
+
+#: includes/demos.php:279
+msgid ""
+"For your site to look exactly like this demo, the plugins below need to be "
+"activated."
+msgstr ""
+
+#: includes/demos.php:408
+msgid "Get This Addon"
+msgstr ""
+
+#: includes/demos.php:289
+msgid "Go to the next step"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpoperation.com"
+msgstr ""
+
+#: includes/demos.php:313
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: includes/demos.php:338
+msgid "Import Sliders"
+msgstr ""
+
+#: includes/demos.php:266
+#, php-format
+msgid "Import the %1$s demo"
+msgstr ""
+
+#: includes/demos.php:322
+msgid "Import Theme Options"
+msgstr ""
+
+#: includes/demos.php:330
+msgid "Import Widgets"
+msgstr ""
+
+#: includes/demos.php:305
+msgid "Import XML Data"
+msgstr ""
+
+#: classes/importers/class-widget-importer.php:185
+msgid "Imported"
+msgstr ""
+
+#: classes/importers/class-widget-importer.php:189
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/demos.php:480
+msgid "Importing Customizer Settings"
+msgstr ""
+
+#: includes/demos.php:272
+#, php-format
+msgid ""
+"Importing demo data allow you to quickly edit everything instead of creating "
+"content from scratch. It is recommended uploading sample data on a fresh "
+"WordPress install to prevent conflicts with your current content. You can "
+"use this plugin to reset your site if needed: %1$sWordpress Database "
+"Reset%2$s."
+msgstr ""
+
+#: includes/demos.php:501
+msgid "Importing Slider"
+msgstr ""
+
+#: includes/demos.php:487
+msgid "Importing Theme Options"
+msgstr ""
+
+#: includes/demos.php:494
+msgid "Importing Widgets"
+msgstr ""
+
+#: includes/demos.php:473
+msgid "Importing XML Data"
+msgstr ""
+
+#: classes/class-install-demos.php:58
+msgid "Install Demos"
+msgstr ""
+
+#: includes/demos.php:393
+msgid "Install Now"
+msgstr ""
+
+#: includes/demos.php:347
+msgid "Install this demo"
+msgstr ""
+
+#: classes/class-install-demos.php:109
+msgid "Live Preview"
+msgstr ""
+
+#: includes/demos.php:433
+msgid "No plugin specified"
+msgstr ""
+
+#: classes/importers/class-widget-importer.php:195
+msgid "No Title"
+msgstr ""
+
+#. Name of the plugin
+msgid "Operation Demo Importer"
+msgstr ""
+
+#: includes/demos.php:305
+msgid "pages, posts, images, menus, etc..."
+msgstr ""
+
+#: includes/demos.php:453
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: includes/demos.php:278
+msgid "Required Plugins"
+msgstr ""
+
+#: includes/demos.php:927
+msgid "Sample data file appears corrupt or can not be accessed."
+msgstr ""
+
+#: classes/class-install-demos.php:78
+msgid "Search demos..."
+msgstr ""
+
+#: includes/demos.php:359
+msgid "See the result"
+msgstr ""
+
+#: includes/demos.php:299
+msgid "Select what you want to import:"
+msgstr ""
+
+#: classes/importers/class-widget-importer.php:84
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: classes/importers/class-widget-importer.php:106
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/demos.php:352
+msgid "The import process could take some time, please be patient"
+msgstr ""
+
+#: includes/demos.php:865
+msgid ""
+"The xml import file could not be accessed. Please try again or contact the "
+"theme developer."
+msgstr ""
+
+#: includes/demos.php:104
+msgid ""
+"There was a problem during the importing process resulting in the following "
+"error from your server:"
+msgstr ""
+
+#: classes/importers/class-widget-importer.php:127
+msgid "Widget already exists"
+msgstr ""
+
+#: classes/class-install-demos.php:33 classes/class-install-demos.php:37
+msgid "WPOP Demo Import"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPoperation"
+msgstr ""

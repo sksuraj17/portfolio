@@ -1,0 +1,103 @@
+.in-sub-panel #customize-theme-controls .customize-pane-child.current-panel-parent,
+#customize-theme-controls .customize-pane-child.current-section-parent {
+	-webkit-transform: translateX(-100%);
+	-ms-transform: translateX(-100%);
+	transform: translateX(-100%);
+}
+
+/* Nested Customizer Section CSS */
+#customize-controls .control-section.control-section-alm_section .accordion-section-title {
+    color: #555d66;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    border-left: 4px solid #fff;
+    -webkit-transition: .15s color ease-in-out, .15s background-color ease-in-out, .15s border-color ease-in-out;
+    transition: .15s color ease-in-out, .15s background-color ease-in-out, .15s border-color ease-in-out;
+}
+
+#customize-controls .control-section.control-section-alm_section .accordion-section-title:after {
+    color: #a0a5aa;
+}
+
+#customize-controls .control-section.control-section-alm_section .accordion-section-title:hover,
+#customize-controls .control-section.control-section-alm_section .accordion-section-title:focus {
+    color: #0073aa;
+    background: #f3f3f5;
+    border-left-color: #0073aa;
+}
+
+#customize-controls .control-section.control-section-alm_section .accordion-section-title:hover:after {
+    color: #0073aa;
+}
+
+#customize-controls .control-section-alm_section .accordion-section {
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+.customize-control-title {
+   display: block;
+   background: #000;
+   font-size: 15px;
+   line-height: 15px;
+   font-weight: 600;
+   margin-bottom: 10px;
+   color: #fff;
+   padding: 8px;
+   width: 94%;
+}
+.customize-control select {
+   width: 100%;
+   height: 40px;
+   line-height: 40px;
+}
+.customize-control-zta-responsive-spacing .zta-spacing-responsive-btns > li {
+    margin-bottom: 0;
+    display: none;
+    width: 35px;
+    line-height: 32px;
+    height: 32px;
+}
+.customize-control-zta-responsive-spacing .input-wrapper .zta-spacing-wrapper .zta-spacing-input-item-link span {
+    width: 35px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    line-height: 32px;
+    height: 32px;
+}
+.customize-control-zta-responsive-spacing .input-wrapper .zta-spacing-wrapper li input.zta-spacing-input {
+    text-align: center;
+    line-height: 34px;
+    height: 34px;
+}
+.customize-control-zta-responsive-spacing .zta-spacing-responsive-units {
+    top: 2px;
+    right: 0;
+}
+.customize-control-zta-responsive-spacing .zta-spacing-responsive-outer-wrapper {
+    display: flex;
+    position: relative;
+    margin-top: 16px;
+}
+body.wp-customizer .wp-picker-container .wp-color-result.button{}
+body.wp-customizer .wp-picker-container .wp-color-result.button{
+height:38px;}
+body.wp-customizer .wp-color-result-text {
+   background-color: rgba(0,0,0,.2);
+   color: #fff;
+   height: 38px;
+   line-height: 38px;
+}
+
+.form-wrap p, p.description, p.help, span.description {
+    font-size: 15px;
+    font-style: italic;
+}
+.widget-content label {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+}
+.customize-control .actions .button{
+  margin-bottom: 12px;
+}

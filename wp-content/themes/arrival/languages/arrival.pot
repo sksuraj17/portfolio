@@ -1,0 +1,1606 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Arrival\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-05 08:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: inc/widgets/widgets-init.php:46
+#, php-format
+msgid " Add Widgetized Footer Region %d."
+msgstr ""
+
+#: inc/customizer/customizer.php:175
+#, php-format
+msgid "%1$s Arrival Pro %2$s"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:24
+msgid "*Arrival Header Info"
+msgstr ""
+
+#: inc/arrival-contents.php:82
+msgid "+023-5584-633"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:147
+msgid ", "
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1041
+msgid "200"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1042
+msgid "300"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1043
+msgid "400"
+msgstr ""
+
+#: pluggable/breadcrumb.php:220 pluggable/breadcrumb.php:1212
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1044
+msgid "500"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1045
+msgid "600"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1046
+msgid "700"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:25
+msgid "A widget that shows contact information"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:65 inc/welcome/welcome-config.php:74
+msgid "Activate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:75
+msgid "Activated"
+msgstr ""
+
+#: inc/customizer/repeater-controller/customizer.php:57
+msgid "Add Profile"
+msgstr ""
+
+#: inc/woocommerce/woo-functions.php:178
+msgid "Add To Wishlist"
+msgstr ""
+
+#: inc/woocommerce/woo-functions.php:176
+msgid "Add to Wishlist"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:834
+msgid "Add URL for header button"
+msgstr ""
+
+#: inc/widgets/widgets-init.php:33
+msgid "Add widgets here to display after top header."
+msgstr ""
+
+#: inc/widgets/widgets-init.php:22
+msgid "Add widgets here to display on left sidebar."
+msgstr ""
+
+#: inc/widgets/widgets-init.php:12
+msgid "Add widgets here to display on right sidebar."
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:236
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:998
+msgid "Additional Styles"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:21
+msgid ""
+"Adds ability to theme with one click demo import feature, which will help to "
+"publish your websies within few minutes."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:551 inc/widgets/widgets-init.php:31
+msgid "After Top Header"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1141
+msgid "After Top Header Styles"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:731
+msgid "Align menu"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:851
+msgid "Align menu last item type as"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:343
+msgid "All the settings for theme header."
+msgstr ""
+
+#: functions.php:161
+msgid "Almost black"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:171
+msgid "Archive Sidebar Options"
+msgstr ""
+
+#: pluggable/breadcrumb.php:221
+msgid "Archives"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:78
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#. Name of the theme
+msgid "Arrival"
+msgstr ""
+
+#. Name of the template
+msgid "Arrival Home"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Arrival is complete multipurpose WordPress theme. The theme can be used to "
+"create any type of website with easy drag and drop options. The theme is "
+"lightweight, fast and fully compatible with elementor builder. The theme "
+"comes with fully Gutenberg ready so you are free to edit and publish with "
+"new WordPress editor."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:59
+msgid "Arrival Setup"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1244
+#: inc/customizer/customizer-sanitize.php:150
+msgid "Attached To Navigation"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:913
+#: inc/customizer/arrival-customizer.php:1112
+#: inc/customizer/arrival-customizer.php:1154
+#: inc/customizer/arrival-customizer.php:1456
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:60
+msgid "Background Options"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1271
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:287
+msgid "Blog Excerpts"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:268
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:37
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:256
+msgid "Blog/Archive Settings"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1180
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:158
+msgid "Border Radius (px)"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:159
+msgid "Border radius for all default theme buttons"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1275
+#: inc/customizer/customizer-sanitize.php:129
+#: inc/customizer/dimensions/class-control-dimensions.php:199
+#: inc/customizer/dimensions/class-control-dimensions.php:203
+#: inc/customizer/dimensions/class-control-dimensions.php:207
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:694
+#: inc/customizer/customizer-sanitize.php:49
+msgid "Boxed"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:22
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: pluggable/breadcrumb.php:218
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/woocommerce/woo-functions.php:198
+msgid "Browse Wishlist"
+msgstr ""
+
+#: pluggable/breadcrumb.php:217
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:799
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:819
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:833
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:81 inc/welcome/sections/free_vs_pro.php:38
+msgid "Buy Now"
+msgstr ""
+
+#: inc/hooks/header-hooks.php:229
+msgid "Call Us:"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:756
+msgid "Cart Display Option"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:738
+#: inc/customizer/arrival-customizer.php:1276
+#: inc/customizer/customizer-sanitize.php:130
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:624
+msgid "Center Align Item?"
+msgstr ""
+
+#: inc/welcome/welcome.php:35 inc/welcome/sections/changelogs.php:3
+msgid "Changelogs"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:625
+msgid "Check the box to align single widget to center of header."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1062
+msgid "Check the box to disable the header box-shadow"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:41
+msgid "Check the box to display site logo."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1311
+msgid "Check the box to enable background overlay"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:610
+msgid "Check the box to enable top border"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1496
+msgid "Check the box to enable top border on copyright section"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:971
+msgid "Check the box to enable transparent header"
+msgstr ""
+
+#: inc/customizer/repeater-controller/customizer.php:92
+msgid "Check the box to open social icons in new tab."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:757
+#, php-format
+msgid ""
+"Choose cart display option to %1$s top menu %2$s or %1$s main navigation "
+"menu  %2$s , OR disable it"
+msgstr ""
+
+#: inc/customizer/repeater-controller/customizer.php:62
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/customizer/repeater-controller/repeater-class.php:331
+msgid "Close"
+msgstr ""
+
+#: inc/hooks/header-hooks.php:328
+msgid "Close Menu"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:111
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:124
+msgid "Color: Hover"
+msgstr ""
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/customizer.php:82 inc/woocommerce/woo-functions.php:222
+msgid "Compare"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:515
+#: inc/customizer/arrival-customizer.php:1436
+msgid "Configure Social Icons"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:392
+msgid "Contact Info"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:387
+#: inc/customizer/arrival-customizer.php:491
+msgid "Content Type"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:48
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/welcome/sections/support.php:8 inc/welcome/sections/support.php:10
+msgid "Create Support Tickets"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:660
+#: inc/customizer/arrival-customizer.php:1345
+#: inc/customizer/customizer-sanitize.php:113
+msgid "Custom"
+msgstr ""
+
+#: pluggable/breadcrumb.php:733 pluggable/breadcrumb.php:1163
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: functions.php:156
+msgid "Dark sunset"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:64
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:273
+#: inc/customizer/arrival-customizer.php:659
+#: inc/customizer/arrival-customizer.php:737
+#: inc/customizer/arrival-customizer.php:1344
+#: inc/customizer/customizer-sanitize.php:99
+#: inc/customizer/customizer-sanitize.php:112
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/repeater-controller/repeater-class.php:327
+msgid "Delete"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:77
+msgid "Demo Installed"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:761
+#: inc/customizer/customizer-sanitize.php:83
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1060
+msgid "Disable Box-shadow"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:710
+msgid "Disable Logo & Site Title"
+msgstr ""
+
+#: inc/welcome/welcome.php:122
+msgid "Dismiss"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:40
+msgid "Display Site Logo ?"
+msgstr ""
+
+#: inc/welcome/sections/support.php:2
+msgid "Documentation"
+msgstr ""
+
+#: functions.php:176
+msgid "Dusty daylight"
+msgstr ""
+
+#: functions.php:141
+msgid "Dusty orange"
+msgstr ""
+
+#: functions.php:146
+msgid "Dusty red"
+msgstr ""
+
+#: functions.php:171
+msgid "Dusty sky"
+msgstr ""
+
+#: functions.php:181
+msgid "Dusty sun"
+msgstr ""
+
+#: functions.php:166
+msgid "Dusty water"
+msgstr ""
+
+#: functions.php:151
+msgid "Dusty wine"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:212
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:409
+#: inc/widgets/widget-contact-info.php:77
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:72
+msgid "Email Title"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:800
+msgid "Empty"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:564
+msgid "Enable After Top Header Section"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1223
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1495
+msgid "Enable Copyright Section Top Border"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1420
+msgid "Enable Footer Social Icons"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1376
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:196
+msgid "Enable Lazyload"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:883
+msgid "Enable One Page Menu"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:358
+msgid "Enable or disable top header"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1310
+msgid "Enable Overlay"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:215
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:357
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:969
+msgid "Enable Transparent Header"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:410
+msgid "Enter email address"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:288
+msgid "Enter excerpt for blogs in letter count"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:447
+msgid "Enter header text"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:427
+msgid "Enter phone number"
+msgstr ""
+
+#: inc/customizer/repeater-controller/customizer.php:69
+msgid "Enter URL"
+msgstr ""
+
+#: inc/welcome/welcome.php:305
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:60
+msgid "Fast &nbsp; | &nbsp; Light  &nbsp; | &nbsp; Powerful"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1037
+msgid "Font Weight"
+msgstr ""
+
+#: inc/widgets/widgets-init.php:44
+#, php-format
+msgid "Footer Area %d"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1403
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1321
+#: inc/welcome/sections/getting_started.php:47
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1339
+msgid "Footer Type"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:13
+msgid "Free"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:70
+msgid "Free Plugins"
+msgstr ""
+
+#: inc/welcome/welcome.php:36
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:693
+#: inc/customizer/customizer-sanitize.php:48
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/customizer-tabs/customizer.php:125
+msgid "General"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:22
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:181
+#: inc/welcome/sections/getting_started.php:32
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:32
+#: inc/welcome/sections/getting_started.php:27
+msgid "General Styles"
+msgstr ""
+
+#: inc/welcome/welcome.php:32
+msgid "Getting Started"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:274
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1257
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:637
+#: inc/welcome/sections/getting_started.php:17
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:342
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:654
+msgid "Header Type"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1293
+msgid "Height (px)"
+msgstr ""
+
+#: pluggable/breadcrumb.php:219
+msgid "Home"
+msgstr ""
+
+#: pluggable/breadcrumb.php:715
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:733
+msgid "How you want your menus to be aligned"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1404
+msgid "HTML and shortcodes allowed on this section"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://wpoperation.com/"
+msgstr ""
+
+#: inc/hooks/footer-hooks.php:72
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/hooks/footer-hooks.php:84
+msgid "https://wpoperation.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpoperation.com/themes/arrival/"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1193
+msgid "Icons Color"
+msgstr ""
+
+#: inc/welcome/welcome.php:500
+msgid "If you are enjoying theme,spread your love and rate our theme."
+msgstr ""
+
+#: inc/welcome/welcome.php:34
+msgid "Import Demo"
+msgstr ""
+
+#: inc/arrival-contents.php:81
+msgid "info@example.com"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1277
+#: inc/customizer/customizer-sanitize.php:131
+msgid "Initial"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1205
+msgid "Inner Page Header"
+msgstr ""
+
+#: inc/welcome/sections/demo_import.php:124
+msgid "Install : "
+msgstr ""
+
+#: inc/welcome/welcome-config.php:63
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:76
+msgid "Installing Demo"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe searching can be "
+"useful?"
+msgstr ""
+
+#: template-parts/content-none.php:49
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:215
+msgid "L"
+msgstr ""
+
+#: functions.php:214
+msgid "large"
+msgstr ""
+
+#: functions.php:220
+msgid "larger"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:792
+msgid "Last Item Type"
+msgstr ""
+
+#: inc/customizer/repeater-controller/repeater-class.php:172
+#: inc/customizer/repeater-controller/repeater-class.php:301
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:10
+msgid "Lazy-load images"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:197
+msgid ""
+"Lazy-loading images means images are loaded only when they are in view. "
+"Improves performance, but can result in content jumping around on slower "
+"connections."
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:189
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:855
+#: inc/customizer/arrival-customizer.php:1278
+#: inc/customizer/customizer-sanitize.php:132
+#: inc/customizer/dimensions/class-control-dimensions.php:200
+#: inc/customizer/dimensions/class-control-dimensions.php:204
+#: inc/customizer/dimensions/class-control-dimensions.php:208
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/widgets-init.php:20
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/welcome/welcome.php:121
+msgid "Lets Get Started"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:98
+#: inc/customizer/arrival-customizer.php:1482
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/dimensions/class-control-dimensions.php:68
+msgid "Link values together"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:4
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:11
+msgid "Load images immediately"
+msgstr ""
+
+#: inc/woocommerce/woo-functions.php:182
+msgid "loading"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:97
+msgid "Location"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:92
+msgid "Location Title"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:12
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:24
+msgid "Logo Width (%)"
+msgstr ""
+
+#: inc/welcome/welcome.php:498
+#, php-format
+msgid "Loving %1$s ? "
+msgstr ""
+
+#: functions.php:209
+msgid "M"
+msgstr ""
+
+#: inc/hooks/header-hooks.php:217
+msgid "Mail Us:"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:763
+#: inc/customizer/customizer-sanitize.php:85
+msgid "Main"
+msgstr ""
+
+#: inc/customizer/customizer-tabs/customizer.php:30
+msgid "Main Bar"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:235
+msgid "Main Container Width (px)"
+msgstr ""
+
+#: inc/arrival-contents.php:58
+msgid "Main Menu"
+msgstr ""
+
+#: inc/hooks/header-hooks.php:63
+msgid "Main menu"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1038
+msgid "Main navigation font weight"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:688
+msgid "Main Navigation Layout"
+msgstr ""
+
+#: inc/customizer/repeater-controller/customizer.php:54
+msgid "Manage social icons for the site"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:100
+msgid "Masonry"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:926
+#: inc/customizer/arrival-customizer.php:984
+msgid "Menu Color"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:940
+msgid "Menu Color: Hover"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1076
+msgid "Menu Hover Styles"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:779
+msgid "Menu Last Item"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:531
+msgid "Menu Location"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:496
+msgid "Menus"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: pluggable/breadcrumb.php:227
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: pluggable/breadcrumb.php:681
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: pluggable/breadcrumb.php:698
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: pluggable/breadcrumb.php:732 pluggable/breadcrumb.php:788
+#: pluggable/breadcrumb.php:1159
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/customizer/customizer.php:177
+msgid "more options available in"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1013
+msgid "Navigation Height (px)"
+msgstr ""
+
+#: comments.php:86
+msgid "New comment(s)"
+msgstr ""
+
+#: inc/template-tags.php:316
+msgid "Next attachment:"
+msgstr ""
+
+#: single.php:47
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:202
+#: inc/customizer/arrival-customizer.php:221
+#: inc/customizer/arrival-customizer.php:362
+#: inc/customizer/arrival-customizer.php:569
+#: inc/customizer/arrival-customizer.php:715
+#: inc/customizer/arrival-customizer.php:890
+#: inc/customizer/arrival-customizer.php:1228
+#: inc/customizer/arrival-customizer.php:1381
+#: inc/customizer/arrival-customizer.php:1425
+#: inc/customizer/customizer-additional.php:110
+#: inc/customizer/customizer-additional.php:268
+#: inc/customizer/customizer-additional.php:285
+#: inc/customizer/customizer-additional.php:302
+#: inc/customizer/customizer-additional.php:319
+#: inc/customizer/customizer-sanitize.php:30
+#: inc/customizer/customizer-sanitize.php:67
+msgid "No"
+msgstr ""
+
+#: inc/customizer/repeater-controller/repeater-class.php:155
+msgid "No image selected"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:107
+msgid "No products in the cart."
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/repeater-controller/customizer.php:91
+msgid "Open In New Tab ?"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:17
+msgid "Operation Demo Importer"
+msgstr ""
+
+#. %s: original post where attachment was added.
+#: inc/template-tags.php:290
+#, php-format
+msgctxt "original post"
+msgid "in %s"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:587
+msgid "Padding (px)"
+msgstr ""
+
+#. %s is the page number.
+#: pluggable/breadcrumb.php:225
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1240
+msgid "Page Header Layout"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:41
+msgid "Page Settings"
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:61
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:426
+msgid "Phone"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:57
+msgid "Phone No."
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:52
+msgid "Phone Title"
+msgstr ""
+
+#: inc/welcome/welcome.php:118
+msgid "Please make sure you visit our"
+msgstr ""
+
+#. %1$s: url open , %2$s: url close
+#: inc/customizer/arrival-customizer.php:886
+#, php-format
+msgid "Please refer to %1$s documentation %2$s on configuring one page menus"
+msgstr ""
+
+#: inc/welcome/welcome.php:386 inc/welcome/welcome.php:406
+msgid "Plugin Does not Exists"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:131
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:249
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:263
+msgid ""
+"Post meta includes post date, comment counts, author name, post view etc."
+msgstr ""
+
+#: inc/template-tags.php:306
+msgid "Post navigation"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:91
+msgid "Post Settings"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:14
+msgid "Premium"
+msgstr ""
+
+#: inc/customizer/customizer.php:80
+msgid "Premium Addons Available"
+msgstr ""
+
+#: inc/template-tags.php:310
+msgid "Previous attachment:"
+msgstr ""
+
+#: single.php:46
+msgid "Previous:"
+msgstr ""
+
+#: functions.php:62
+msgid "Primary"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:68
+msgid "Pro Plugins"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:12
+msgid "Product Features"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: inc/hooks/footer-hooks.php:75
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/welcome/welcome.php:501
+msgid "Rate Now"
+msgstr ""
+
+#: inc/welcome/sections/support.php:4
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/welcome/welcome.php:493
+msgid "Read Now"
+msgstr ""
+
+#: inc/welcome/sections/support.php:3
+msgid ""
+"Read the detailed documentation of the theme. The documentation contain all "
+"the necessary information required to setup the theme."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/welcome/welcome.php:33
+msgid "Recommended Plugins"
+msgstr ""
+
+#: functions.php:208
+msgid "regular"
+msgstr ""
+
+#: inc/customizer/repeater-controller/repeater-class.php:161
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:84
+msgid "Remove this item"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:856
+#: inc/customizer/arrival-customizer.php:1279
+#: inc/customizer/customizer-sanitize.php:133
+#: inc/customizer/dimensions/class-control-dimensions.php:198
+#: inc/customizer/dimensions/class-control-dimensions.php:202
+#: inc/customizer/dimensions/class-control-dimensions.php:206
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/widgets-init.php:10
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:270
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:275
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:203
+msgid "S"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:868
+msgid "Scrolling Menus"
+msgstr ""
+
+#: searchform.php:20 inc/customizer/arrival-customizer.php:798
+msgid "Search"
+msgstr ""
+
+#: searchform.php:17
+msgid "Search for:"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: pluggable/breadcrumb.php:223
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s: search query.
+#. %s: search term
+#: inc/template-tags.php:65 pluggable/breadcrumb.php:1217
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/repeater-controller/repeater-class.php:171
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:388
+msgid "Select content type for top left header"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:492
+msgid "Select content type for top right header"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:670
+#: inc/customizer/arrival-customizer.php:1355
+msgid "Select Elementor Template"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1357
+msgid "Select elementor template to display as footer."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:672
+msgid "Select elementor template to display as header."
+msgstr ""
+
+#: inc/customizer/repeater-controller/repeater-class.php:162
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:794
+msgid "Select last item for menu"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:689
+msgid "Select layout for main navigation"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1078
+msgid "Select menu hover styles"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:532
+msgid "Select menu to display on top right header"
+msgstr ""
+
+#: inc/customizer/repeater-controller/repeater-class.php:204
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:185
+msgid "Select sidebar for the archive shop page."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:314
+msgid "Select sidebar for the blogs."
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:68
+#: inc/customizer/customizer-additional.php:134
+msgid "Select sidebar for the pages."
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:218
+msgid "Select sidebar for the single product page."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1340
+#, php-format
+msgid ""
+"Select site footer type, %1$s Note: %2$s If you choose custom footer you "
+"will have to seperately design your footer using elementor."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:655
+#, php-format
+msgid ""
+"Select site header type, %1$s Note: %2$s If you choose custom header you "
+"will have to seperately design your header using elementor."
+msgstr ""
+
+#: inc/template-functions.php:582
+msgid "Select Template"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:269
+msgid "Select your blog layout"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1245
+#: inc/customizer/customizer-sanitize.php:151
+msgid "Seperate"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:158
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:105
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:565
+msgid "Show or hide after top header section"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1224
+msgid "Show or hide breadcrumb header bars."
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:280
+msgid "Show Post Author"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:314
+msgid "Show Post Comment Count"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:297
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:262
+msgid "Show Post Meta"
+msgstr ""
+
+#: inc/template-functions.php:653
+msgid "Show sub menu"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:609
+msgid "Show Top Border ?"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:300
+#: inc/customizer/customizer-additional.php:54
+#: inc/customizer/customizer-additional.php:120
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/customizer/customizer-additional.php:204
+msgid "Single Sidebar Options"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:137
+msgid "Site Buttons"
+msgstr ""
+
+#: header.php:43
+msgid "Skip to content"
+msgstr ""
+
+#: functions.php:202
+msgid "small"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:497
+#: inc/customizer/repeater-controller/customizer.php:30
+#: inc/customizer/repeater-controller/customizer.php:56
+#: inc/welcome/sections/getting_started.php:42
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/repeater-controller/customizer.php:53
+msgid "Social Icons Options"
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/welcome/welcome.php:296
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/welcome/sections/support.php:9
+msgid ""
+"Still having problem after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1082
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1084
+msgid "Style Three"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1083
+msgid "Style Two"
+msgstr ""
+
+#: inc/customizer/customizer-tabs/customizer.php:76
+#: inc/customizer/customizer-tabs/customizer.php:141
+msgid "Styles"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:100
+msgid "Subtotal"
+msgstr ""
+
+#: inc/welcome/welcome.php:37
+msgid "Support"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:167
+#, php-format
+msgid "Tagged With: %1$s"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:69
+msgid "Take Advantage of some of our Premium Plugins."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:393
+#: inc/customizer/arrival-customizer.php:446
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:849
+msgid "Text Align"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1125
+#: inc/customizer/arrival-customizer.php:1167
+#: inc/customizer/arrival-customizer.php:1469
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:820
+msgid "Text for button"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:956
+msgid "The transparent header will only be displayed on homepage"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:49
+msgid "Theme Color"
+msgstr ""
+
+#: inc/welcome/welcome.php:490
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/hooks/footer-hooks.php:83
+msgid "Theme: Arrival by"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:71
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:23
+msgid "This allows to edit general theme settings"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:552
+msgid ""
+"This section will display contents from widget area \"After Top Header\""
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:870
+msgid "This setting will enable or disable one page parallax scrolling menus"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:216
+msgid "This will enable or disable smooth scrolling behaviour on your browser."
+msgstr ""
+
+#: inc/welcome/welcome.php:118
+msgid "to get started with Arrival."
+msgstr ""
+
+#: functions.php:63 inc/customizer/arrival-customizer.php:762
+#: inc/customizer/arrival-customizer.php:1280
+#: inc/customizer/customizer-sanitize.php:84
+#: inc/customizer/customizer-sanitize.php:134
+#: inc/customizer/dimensions/class-control-dimensions.php:197
+#: inc/customizer/dimensions/class-control-dimensions.php:201
+#: inc/customizer/dimensions/class-control-dimensions.php:205
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/customizer-tabs/customizer.php:52
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:1099
+msgid "Top Header Styles"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:373
+msgid "Top Left Options"
+msgstr ""
+
+#: inc/arrival-contents.php:68
+msgid "Top Menu"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:472
+msgid "Top Right Options"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:955
+msgid "Transparent Header Styles"
+msgstr ""
+
+#: searchform.php:18
+msgid "Type and hit enter ..."
+msgstr ""
+
+#: inc/welcome/sections/recommended_plugins.php:40
+#: inc/welcome/sections/recommended_plugins.php:82
+#: inc/welcome/sections/recommended_plugins.php:139
+msgid "Version "
+msgstr ""
+
+#: inc/woocommerce/woo-functions.php:189
+msgid "View Wishlist"
+msgstr ""
+
+#: inc/woocommerce/woo-functions.php:81
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/welcome/welcome.php:492
+msgid ""
+"We have online documentation to make your configuration process easy, go "
+"through the documentation to get more familiar with theme"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: pluggable/breadcrumb.php:229
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: pluggable/breadcrumb.php:761
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:68
+msgid "Welcome"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:70
+msgid ""
+"Welcome and thank you for choosing Arrival. Please install and activate all "
+"recommended plugins."
+msgstr ""
+
+#: inc/welcome/welcome.php:118
+msgid "Welcome Page"
+msgstr ""
+
+#: inc/welcome/welcome.php:118
+msgid "Welcome! Thank you for choosing"
+msgstr ""
+
+#. Author of the theme
+#: inc/hooks/footer-hooks.php:85
+msgid "WPoperation"
+msgstr ""
+
+#: functions.php:221
+msgid "XL"
+msgstr ""
+
+#: pluggable/breadcrumb.php:731 pluggable/breadcrumb.php:760
+#: pluggable/breadcrumb.php:787 pluggable/breadcrumb.php:814
+#: pluggable/breadcrumb.php:1155
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/arrival-customizer.php:201
+#: inc/customizer/arrival-customizer.php:220
+#: inc/customizer/arrival-customizer.php:361
+#: inc/customizer/arrival-customizer.php:568
+#: inc/customizer/arrival-customizer.php:714
+#: inc/customizer/arrival-customizer.php:889
+#: inc/customizer/arrival-customizer.php:1227
+#: inc/customizer/arrival-customizer.php:1380
+#: inc/customizer/arrival-customizer.php:1424
+#: inc/customizer/customizer-additional.php:109
+#: inc/customizer/customizer-additional.php:267
+#: inc/customizer/customizer-additional.php:284
+#: inc/customizer/customizer-additional.php:301
+#: inc/customizer/customizer-additional.php:318
+#: inc/customizer/customizer-sanitize.php:29
+#: inc/customizer/customizer-sanitize.php:66
+msgid "Yes"
+msgstr ""
