@@ -1,0 +1,358 @@
+/* Header cart count */
+.header-cart.cart-icon a, .header-wishlist-icon a{
+  position: relative;
+}
+.cart-icon .count{
+  min-width: 15px;
+  min-height: 15px;
+  font-size: 8px;
+  position: absolute;
+  top: -10px;
+  right: -8px;
+  text-align: center;
+  color: #fff;
+  line-height: 1.9;
+}
+/* Slider Styles */
+.woocommerce ul.products.products.product-slide li.first, 
+.woocommerce-page ul.products.products.product-slide li.first{
+    clear: initial;
+}
+.woocommerce ul.products.product-slide li.product, 
+.woocommerce-page ul.products.product-slide li.product, 
+.woocommerce ul.products.product-slide, 
+.woocommerce-page ul.products.product-slide{
+	margin-bottom: 0;
+}
+.woocommerce ul.products.product-slide li.product.last{
+	margin-right: 30px;
+}
+
+.wpopea-opstore-products ul.products li.product {
+    margin-left: 0;
+    margin: 0 30px 50px 0;
+    text-align: left;
+    position: relative;
+    float: left;
+    width: 262px;
+    list-style: none;
+}
+
+.woocommerce ul.products.product-slide .slick-dots {
+    text-align: center;
+    bottom: -30px;
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.woocommerce ul.products.product-slide .slick-dots li {
+    width: auto;
+    margin: 0px 5px;
+    float: none;
+    height: auto;
+}
+
+.opstore-wc-column-4 ul li{
+    width: calc(25% - 30px)!important;
+}
+
+.opstore-wc-column-3 ul li{
+    width: calc(33.33% - 30px)!important;
+}
+
+.opstore-wc-column-2 ul li{
+    width: calc(50% - 30px)!important;
+}
+.opstore-wc-column-4 ul li,
+.opstore-wc-column-3 ul li,
+.opstore-wc-column-2 ul li{
+    margin-right: 15px!important;
+    margin-left: 15px!important;
+}
+
+.opstore-wc-column-1 ul li{
+    width: 100%!important;
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+}
+
+/* Product Sale */
+.elementor-element-opstore-product-sale small.pull-left.stock-warning {
+    color: #d9534f;
+}
+.elementor-element-opstore-product-sale small.pull-left{
+    color: #89c350;
+    font-weight: 600;
+}
+
+.elementor-element-opstore-product-sale .stock-counter{
+    margin-left: 16px;
+}
+.elementor-element-opstore-product-sale .product-title h2.woocommerce-loop-product__title {
+    font-size: 26px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+.elementor-element-opstore-product-sale .opstore-stock-bar{
+    margin-left: 15px;
+    
+}
+.elementor-element-opstore-product-sale .stock-info-bar{
+    margin: 35px 0px;
+}
+.elementor-element-opstore-product-sale ul.products li.product .price,
+.elementor-element-opstore-product-sale .countdown-wrap h6{
+    text-align: center;
+}
+.elementor-element-opstore-product-sale .products .star-rating{
+        margin: 0 auto;
+}
+
+.elementor-element-opstore-product-sale .salecount-timer div span {
+    color: #89c350;
+}
+.elementor-element-opstore-product-sale {
+    border: 1px solid rgb(215, 215, 215);
+    border-radius: 15px;
+}
+.elementor-element-opstore-product-sale li.product figure .product-wrap.base-align{
+    border: none;
+}
+.elementor-element-opstore-product-sale .btn a{
+    padding: 15px 30px;
+    border: 1px solid #89c350;
+}
+.elementor-element-opstore-product-sale .btn a{
+    color: #fff;
+}
+.elementor-element-opstore-product-sale .btn a:hover{
+    background-color: #89c350;
+  
+}
+.elementor-element-opstore-product-sale ul.products li.product a:hover{
+      color: #fff;
+}
+.elementor-element-opstore-product-sale .btn {
+    margin-left: 63px;
+    margin-top: 20px;
+}
+
+.elementor-element-opstore-product-sale ul.products li.product{
+    margin-bottom: 10px;
+}
+
+ul.products.opstore-sale-slide li .btn-wrap a {
+    background: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 0;
+}
+ul.products.opstore-sale-slide .countdown-wrap h6 {
+    font-size: 14px;
+    text-align: center;
+}
+
+ul.products.opstore-sale-slide  .stock-info{
+  font-size:13px;
+  text-align: center;
+}
+ul.opstore-sale-slide li a.product-title {
+  padding-top: 10px;
+  display: block;
+  text-transform: capitalize;
+}
+ul.products.opstore-sale-slide li.product .bottom{
+    width: 100%;
+} 
+
+.salecount-timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.salecount-timer div {
+  text-align: center;
+  min-width: 55px;
+  font-size: 80%;
+  line-height: 1;
+  position: relative;
+  border: 1px solid;
+  padding: 5px;
+}
+.salecount-timer div .no.rounded-crcl {
+  display: block;
+  font-size: 17px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+.salecount-timer div+div:before{
+  font-size: 200%;
+  left: -28px;  
+  line-height: 1.5;
+}
+.salecount-timer div + div {
+    margin-left: 30px;
+}
+.salecount-timer div+div:before {
+  content: ":";
+  display: inline-block;
+  padding: 0 10px;
+  position: absolute;
+  left: -30px;
+  color: #2a2a2a;
+  font-size: 30px;
+  top: 0;
+  line-height: 1.2;
+}
+.salecount-timer div+div:before{
+  font-size: 200%;
+  left: -28px;  
+  line-height: 1.5;
+}
+
+
+.opstore-product-info .item-info-wrap a.add_to_cart_button {
+    opacity: 1;
+    visibility: visible;
+    text-transform: capitalize;
+}
+
+.opstore-product-info .woo-price-wrapp .item-desc {
+  color: #666;
+  font-size: 14px;
+}
+
+/* Slider Css */
+
+.wpopea-opstore-products .products .slick-arrow{
+    z-index: 2;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 400ms ease-in-out;
+    background-color: #000;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+  }
+.wpopea-opstore-products .products .slick-arrow:hover{
+    background-color: #fff;
+  }
+.wpopea-opstore-products .products .slick-arrow:before{
+    color: #fff;
+  }
+.wpopea-opstore-products .products .slick-prev{
+    left: -20px;
+  }
+.wpopea-opstore-products .products .slick-next{
+    right: -20px;
+  }
+.wpopea-opstore-products .products.slick-slider{
+    padding-bottom: 40px;
+  }
+.wpopea-opstore-products .products.slick-slider:hover .slick-arrow{
+    opacity: 1;
+    visibility: visible;
+  }
+.wpopea-opstore-products .products.slick-slider:hover .slick-prev{
+    left: -5px;
+  }
+.wpopea-opstore-products .products.slick-slider:hover .slick-next{
+    right: -7px;
+  }
+.wpopea-opstore-products .products .slick-dots li button:before,
+.wpopea-opstore-products .products .slick-dots li.slick-active button:before{
+    color: #000;
+  }
+.wpopea-opstore-products .products .slick-prev:before{
+    margin-right: 2px;
+  }
+.wpopea-opstore-products .products .slick-next:before{
+    margin-left: 2px;
+  }
+
+/*---- Tab Layout Css -------*/
+  .product-tab-filter .titles-port{
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .product-tab-filter .titles-port .filter{
+    padding: 10px 20px;
+    background-color: #acacac;
+    margin: 0px 5px 15px;
+    transition: all 400ms ease-in-out;
+    cursor: pointer;
+  }
+  .product-tab-filter .titles-port .filter.active{
+    background-color: #000;
+  }
+
+/* Blog Style */
+
+.news-wrap{
+    display: inline-flex!important;
+    flex-wrap: wrap;
+    margin: 0px -15px -30px;
+}
+
+.news-wrap.column-1{
+    margin: 0px;
+}
+
+.news-wrap>div{
+    margin: 0px 15px 30px!important;
+}
+.news-wrap.column-1>div{
+    width: 100%;
+    margin: 0px 0px 30px;
+}
+.news-wrap.column-2>div{
+    width: calc( 50% - 30px);
+}
+.news-wrap.column-3>div{
+    width: calc( 33.33% - 30px);
+}
+.news-wrap.column-4>div{
+    width: calc( 25% - 30px);
+}
+
+@media only screen and (max-width: 768px){
+  
+  .news-wrap.column-3>div {
+      width: calc( 49.33% - 30px);
+  }
+
+  .wpopea-opstore-products.column-2 ul.products li,
+  .wpopea-opstore-products.column-3 ul.products li,
+  .wpopea-opstore-products.column-4 ul.products li{
+    width: 45% !important;
+  }
+  .woocommerce .wpopea-opstore-products ul.products li.first{
+    clear: none;
+  }
+
+}
+
+@media only screen and (max-width: 450px){
+  
+  .news-wrap.column-3>div {
+      width: 100%
+  }
+
+}
+
+@media only screen and (max-width: 450px){
+  
+   .wpopea-opstore-products.column-2 ul.products li,
+   .wpopea-opstore-products.column-3 ul.products li,
+   .wpopea-opstore-products.column-4 ul.products li{
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+}
