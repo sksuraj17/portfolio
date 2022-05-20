@@ -1,3 +1,3 @@
-# Portfolio
+# Personal Portfolio
 
-Welcome to my Portfolio!![image](https://user-images.githubusercontent.com/64256552/168328292-a4d19ac5-54df-4735-8d59-7c94bf8ab2b6.png)
+![giphy (2)](https://user-images.githubusercontent.com/64256552/169469586-282b9ac7-969f-4d53-8967-e63f8299a618.gif)
