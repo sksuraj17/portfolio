@@ -1,0 +1,520 @@
+[2022-05-25 07:05:31 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-05-25 07:05:31 : INFO] - 
+ 
+[2022-05-25 07:05:31 : INFO] - Header for logs at time:  Wed, 25 May 2022 07:05:31 +0000 on http://localhost/portfolio 
+[2022-05-25 07:05:31 : INFO] - WP: 6.0 
+[2022-05-25 07:05:31 : INFO] - PHP: 7.4.26 (apache2handler, Windows NT DESKTOP-HQT8RQ3 10.0 build 19043 (Windows 10) AMD64) 
+[2022-05-25 07:05:31 : INFO] - MySQL: 5.7.36 
+[2022-05-25 07:05:31 : INFO] - WPLANG: en_US 
+[2022-05-25 07:05:31 : INFO] - Server: Apache/2.4.51 (Win64) PHP/7.4.26 
+[2022-05-25 07:05:31 : INFO] - Outbound connections: N 
+[2022-05-25 07:05:31 : INFO] - safe_mode: 0 
+[2022-05-25 07:05:31 : INFO] - max_execution_time: 120 
+[2022-05-25 07:05:31 : INFO] - memory_limit: 128M (used: 6.8M | 2M) 
+[2022-05-25 07:05:31 : INFO] - multisite: N 
+[2022-05-25 07:05:31 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-25 07:05:32 : INFO] - A total of 24 tasks of type smush found and will be processed in this iteration 
+[2022-05-25 07:05:32 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-05-25 07:05:32 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-05-25 07:05:32 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-05-25 07:05:32 : INFO] - Re_Smush_It_Task - Attachment ID : 114, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:32 : INFO] - 75 
+[2022-05-25 07:05:34 : INFO] - Backing up the original image - 2019/10/map-updraft-pre-smush-original.png 
+[2022-05-25 07:05:34 : INFO] - Re_Smush_It_Task - Attachment ID : 114, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:34 : INFO] - 75 
+[2022-05-25 07:05:35 : INFO] - Re_Smush_It_Task - Attachment ID : 114, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:35 : INFO] - 75 
+[2022-05-25 07:05:36 : INFO] - Re_Smush_It_Task - Attachment ID : 114, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:36 : INFO] - 75 
+[2022-05-25 07:05:38 : INFO] - Re_Smush_It_Task - Attachment ID : 114, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:38 : INFO] - 75 
+[2022-05-25 07:05:39 : INFO] - Re_Smush_It_Task - Attachment ID : 114, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:40 : INFO] - 75 
+[2022-05-25 07:05:41 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2019/10/map.png.The file was compressed from 72.94 KB to 34.63 KB saving 52.52 percent using WP-Optimize 
+[2022-05-25 07:05:41 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2022-05-25 07:05:41 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2022-05-25 07:05:41 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:41 : INFO] - 75 
+[2022-05-25 07:05:43 : INFO] - Backing up the original image - 2022/05/1617116443477-01-scaled-updraft-pre-smush-original.jpeg 
+[2022-05-25 07:05:43 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:43 : INFO] - 75 
+[2022-05-25 07:05:44 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:44 : INFO] - 75 
+[2022-05-25 07:05:45 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:45 : INFO] - 75 
+[2022-05-25 07:05:46 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:46 : INFO] - 75 
+[2022-05-25 07:05:47 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:47 : INFO] - 75 
+[2022-05-25 07:05:49 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:49 : INFO] - 75 
+[2022-05-25 07:05:50 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:50 : INFO] - 75 
+[2022-05-25 07:05:52 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : May 25, 2022 07:05:31 
+[2022-05-25 07:05:52 : INFO] - 75 
+[2022-05-25 07:05:53 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/1617116443477-01-scaled.jpeg.The file was compressed from 94.89 KB to 62.45 KB saving 34.19 percent using WP-Optimize 
+[2022-05-25 07:05:53 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2022-05-25 07:05:53 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2022-05-25 07:05:53 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:05:53 : INFO] - 75 
+[2022-05-25 07:06:02 : INFO] - Backing up the original image - 2022/05/1617117731437-01-updraft-pre-smush-original.jpeg 
+[2022-05-25 07:06:02 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:02 : INFO] - 75 
+[2022-05-25 07:06:03 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:03 : INFO] - 75 
+[2022-05-25 07:06:05 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:05 : INFO] - 75 
+[2022-05-25 07:06:06 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:06 : INFO] - 75 
+[2022-05-25 07:06:09 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:09 : INFO] - 75 
+[2022-05-25 07:06:12 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:12 : INFO] - 75 
+[2022-05-25 07:06:16 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:16 : INFO] - 75 
+[2022-05-25 07:06:18 : INFO] - Re_Smush_It_Task - Attachment ID : 270, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:18 : INFO] - 75 
+[2022-05-25 07:06:20 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/1617117731437-01.jpeg.The file was compressed from 1.05 MB to 436.33 KB saving 59.47 percent using WP-Optimize 
+[2022-05-25 07:06:20 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2022-05-25 07:06:20 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2022-05-25 07:06:20 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:20 : INFO] - 75 
+[2022-05-25 07:06:25 : INFO] - Backing up the original image - 2022/05/IMG_20210128_213154_577-scaled-updraft-pre-smush-original.jpg 
+[2022-05-25 07:06:25 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:25 : INFO] - 75 
+[2022-05-25 07:06:26 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:26 : INFO] - 75 
+[2022-05-25 07:06:29 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:29 : INFO] - 75 
+[2022-05-25 07:06:30 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:30 : INFO] - 75 
+[2022-05-25 07:06:32 : INFO] - 
+ 
+[2022-05-25 07:06:32 : INFO] - Header for logs at time:  Wed, 25 May 2022 07:06:32 +0000 on http://localhost/portfolio 
+[2022-05-25 07:06:32 : INFO] - WP: 6.0 
+[2022-05-25 07:06:32 : INFO] - PHP: 7.4.26 (apache2handler, Windows NT DESKTOP-HQT8RQ3 10.0 build 19043 (Windows 10) AMD64) 
+[2022-05-25 07:06:32 : INFO] - MySQL: 5.7.36 
+[2022-05-25 07:06:32 : INFO] - WPLANG: en_US 
+[2022-05-25 07:06:32 : INFO] - Server: Apache/2.4.51 (Win64) PHP/7.4.26 
+[2022-05-25 07:06:32 : INFO] - Outbound connections: N 
+[2022-05-25 07:06:32 : INFO] - safe_mode: 0 
+[2022-05-25 07:06:32 : INFO] - max_execution_time: 120 
+[2022-05-25 07:06:32 : INFO] - memory_limit: 128M (used: 6.8M | 6M) 
+[2022-05-25 07:06:32 : INFO] - multisite: N 
+[2022-05-25 07:06:32 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-25 07:06:32 : INFO] - A total of 21 tasks of type smush found and will be processed in this iteration 
+[2022-05-25 07:06:32 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2022-05-25 07:06:32 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2022-05-25 07:06:32 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-05-25 07:06:32 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:32 : INFO] - 75 
+[2022-05-25 07:06:35 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:35 : INFO] - 75 
+[2022-05-25 07:06:40 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:40 : INFO] - 75 
+[2022-05-25 07:06:42 : INFO] - Re_Smush_It_Task - Attachment ID : 271, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:42 : INFO] - 75 
+[2022-05-25 07:06:43 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/IMG_20210128_213154_577-scaled.jpg.The file was compressed from 549.67 KB to 437.57 KB saving 20.39 percent using WP-Optimize 
+[2022-05-25 07:06:43 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2022-05-25 07:06:43 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2022-05-25 07:06:43 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:43 : INFO] - 75 
+[2022-05-25 07:06:48 : INFO] - Backing up the original image - 2022/05/xrcdzq7uxwg51-updraft-pre-smush-original.png 
+[2022-05-25 07:06:48 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:48 : INFO] - 75 
+[2022-05-25 07:06:49 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:49 : INFO] - 75 
+[2022-05-25 07:06:51 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:51 : INFO] - 75 
+[2022-05-25 07:06:52 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:52 : INFO] - 75 
+[2022-05-25 07:06:53 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:53 : INFO] - 75 
+[2022-05-25 07:06:56 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:56 : INFO] - 75 
+[2022-05-25 07:06:59 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:06:59 : INFO] - 75 
+[2022-05-25 07:07:01 : INFO] - Re_Smush_It_Task - Attachment ID : 272, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:01 : INFO] - 75 
+[2022-05-25 07:07:02 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/xrcdzq7uxwg51.png.The file was compressed from 234.58 KB to 91.38 KB saving 61.05 percent using WP-Optimize 
+[2022-05-25 07:07:02 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2022-05-25 07:07:02 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2022-05-25 07:07:02 : INFO] - Re_Smush_It_Task - Attachment ID : 291, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:02 : INFO] - 75 
+[2022-05-25 07:07:04 : INFO] - Backing up the original image - 2022/05/engineering-updraft-pre-smush-original.png 
+[2022-05-25 07:07:04 : INFO] - Re_Smush_It_Task - Attachment ID : 291, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:04 : INFO] - 75 
+[2022-05-25 07:07:05 : INFO] - Re_Smush_It_Task - Attachment ID : 291, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:05 : INFO] - 75 
+[2022-05-25 07:07:06 : INFO] - Re_Smush_It_Task - Attachment ID : 291, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:06 : INFO] - 75 
+[2022-05-25 07:07:08 : INFO] - Re_Smush_It_Task - Attachment ID : 291, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:08 : INFO] - 75 
+[2022-05-25 07:07:09 : INFO] - Re_Smush_It_Task - Attachment ID : 291, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:09 : INFO] - 75 
+[2022-05-25 07:07:11 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/engineering.png.The file was compressed from 65.99 KB to 29.20 KB saving 55.75 percent using WP-Optimize 
+[2022-05-25 07:07:11 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2022-05-25 07:07:11 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2022-05-25 07:07:11 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:11 : INFO] - 75 
+[2022-05-25 07:07:14 : INFO] - Backing up the original image - 2022/05/aditi-joshi-updraft-pre-smush-original.jpg 
+[2022-05-25 07:07:14 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:14 : INFO] - 75 
+[2022-05-25 07:07:15 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:15 : INFO] - 75 
+[2022-05-25 07:07:16 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:16 : INFO] - 75 
+[2022-05-25 07:07:18 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:18 : INFO] - 75 
+[2022-05-25 07:07:19 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/aditi-joshi.jpg.The file was compressed from 143.97 KB to 83.21 KB saving 42.2 percent using WP-Optimize 
+[2022-05-25 07:07:19 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2022-05-25 07:07:19 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2022-05-25 07:07:19 : INFO] - Re_Smush_It_Task - Attachment ID : 317, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:19 : INFO] - 75 
+[2022-05-25 07:07:20 : INFO] - Backing up the original image - 2022/05/download-updraft-pre-smush-original.jpg 
+[2022-05-25 07:07:20 : INFO] - Re_Smush_It_Task - Attachment ID : 317, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:20 : INFO] - 75 
+[2022-05-25 07:07:21 : INFO] - Re_Smush_It_Task - Attachment ID : 317, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:21 : INFO] - 75 
+[2022-05-25 07:07:22 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/download.jpg.The file was compressed from 3.35 KB to 2.74 KB saving 18.26 percent using WP-Optimize 
+[2022-05-25 07:07:22 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2022-05-25 07:07:22 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2022-05-25 07:07:22 : INFO] - Re_Smush_It_Task - Attachment ID : 320, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:22 : INFO] - 75 
+[2022-05-25 07:07:24 : INFO] - Backing up the original image - 2022/05/SHINE-LOGO-COLOR-TRANSPARENT-updraft-pre-smush-original.png 
+[2022-05-25 07:07:24 : INFO] - Re_Smush_It_Task - Attachment ID : 320, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:24 : INFO] - 75 
+[2022-05-25 07:07:25 : INFO] - Re_Smush_It_Task - Attachment ID : 320, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:25 : INFO] - 75 
+[2022-05-25 07:07:26 : INFO] - Re_Smush_It_Task - Attachment ID : 320, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:26 : INFO] - 75 
+[2022-05-25 07:07:27 : INFO] - Re_Smush_It_Task - Attachment ID : 320, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:27 : INFO] - 75 
+[2022-05-25 07:07:28 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/SHINE-LOGO-COLOR-TRANSPARENT.png.The file was compressed from 46.89 KB to 14.73 KB saving 68.59 percent using WP-Optimize 
+[2022-05-25 07:07:28 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2022-05-25 07:07:28 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2022-05-25 07:07:28 : INFO] - Re_Smush_It_Task - Attachment ID : 323, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:28 : INFO] - 75 
+[2022-05-25 07:07:29 : INFO] - Backing up the original image - 2022/05/picture-updraft-pre-smush-original.jpg 
+[2022-05-25 07:07:29 : INFO] - Re_Smush_It_Task - Attachment ID : 323, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:29 : INFO] - 75 
+[2022-05-25 07:07:30 : INFO] - Re_Smush_It_Task - Attachment ID : 323, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:30 : INFO] - 75 
+[2022-05-25 07:07:31 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/picture.jpg.The file was compressed from 5.92 KB to 3.76 KB saving 36.51 percent using WP-Optimize 
+[2022-05-25 07:07:31 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2022-05-25 07:07:31 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2022-05-25 07:07:31 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:31 : INFO] - 75 
+[2022-05-25 07:07:31 : INFO] - 
+ 
+[2022-05-25 07:07:31 : INFO] - Header for logs at time:  Wed, 25 May 2022 07:07:31 +0000 on http://localhost/portfolio 
+[2022-05-25 07:07:31 : INFO] - WP: 6.0 
+[2022-05-25 07:07:31 : INFO] - PHP: 7.4.26 (apache2handler, Windows NT DESKTOP-HQT8RQ3 10.0 build 19043 (Windows 10) AMD64) 
+[2022-05-25 07:07:31 : INFO] - MySQL: 5.7.36 
+[2022-05-25 07:07:31 : INFO] - WPLANG: en_US 
+[2022-05-25 07:07:31 : INFO] - Server: Apache/2.4.51 (Win64) PHP/7.4.26 
+[2022-05-25 07:07:31 : INFO] - Outbound connections: N 
+[2022-05-25 07:07:31 : INFO] - safe_mode: 0 
+[2022-05-25 07:07:31 : INFO] - max_execution_time: 120 
+[2022-05-25 07:07:31 : INFO] - memory_limit: 128M (used: 6.7M | 4M) 
+[2022-05-25 07:07:31 : INFO] - multisite: N 
+[2022-05-25 07:07:31 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-25 07:07:31 : INFO] - A total of 14 tasks of type smush found and will be processed in this iteration 
+[2022-05-25 07:07:31 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2022-05-25 07:07:32 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2022-05-25 07:07:32 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-05-25 07:07:33 : INFO] - Backing up the original image - 2022/05/Careers-e1553244124511-updraft-pre-smush-original.jpg 
+[2022-05-25 07:07:33 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:33 : INFO] - 75 
+[2022-05-25 07:07:34 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:34 : INFO] - 75 
+[2022-05-25 07:07:35 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:35 : INFO] - 75 
+[2022-05-25 07:07:36 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:36 : INFO] - 75 
+[2022-05-25 07:07:37 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:37 : INFO] - 75 
+[2022-05-25 07:07:39 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:39 : INFO] - 75 
+[2022-05-25 07:07:41 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/Careers-e1553244124511.jpg.The file was compressed from 72.46 KB to 58.27 KB saving 19.57 percent using WP-Optimize 
+[2022-05-25 07:07:41 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2022-05-25 07:07:41 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2022-05-25 07:07:41 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:41 : INFO] - 75 
+[2022-05-25 07:07:43 : INFO] - Backing up the original image - 2022/05/b-j-logo-updraft-pre-smush-original.jpg 
+[2022-05-25 07:07:43 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:43 : INFO] - 75 
+[2022-05-25 07:07:44 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:44 : INFO] - 75 
+[2022-05-25 07:07:45 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:45 : INFO] - 75 
+[2022-05-25 07:07:46 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:46 : INFO] - 75 
+[2022-05-25 07:07:47 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:47 : INFO] - 75 
+[2022-05-25 07:07:48 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:48 : INFO] - 75 
+[2022-05-25 07:07:50 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/b-j-logo.jpg.The file was compressed from 135.89 KB to 32.28 KB saving 76.25 percent using WP-Optimize 
+[2022-05-25 07:07:50 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2022-05-25 07:07:50 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2022-05-25 07:07:50 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:50 : INFO] - 75 
+[2022-05-25 07:07:51 : INFO] - Backing up the original image - 2022/05/selenium-updraft-pre-smush-original.png 
+[2022-05-25 07:07:51 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:51 : INFO] - 75 
+[2022-05-25 07:07:52 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:52 : INFO] - 75 
+[2022-05-25 07:07:54 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:54 : INFO] - 75 
+[2022-05-25 07:07:54 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:54 : INFO] - 75 
+[2022-05-25 07:07:56 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:56 : INFO] - 75 
+[2022-05-25 07:07:57 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:57 : INFO] - 75 
+[2022-05-25 07:07:58 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:58 : INFO] - 75 
+[2022-05-25 07:07:59 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/selenium.png.The file was compressed from 15.92 KB to 15.92 KB saving 0 percent using WP-Optimize 
+[2022-05-25 07:07:59 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2022-05-25 07:07:59 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2022-05-25 07:07:59 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:07:59 : INFO] - 75 
+[2022-05-25 07:08:02 : INFO] - Backing up the original image - 2022/05/blockchain-trends-2021-updraft-pre-smush-original.jpg 
+[2022-05-25 07:08:02 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:02 : INFO] - 75 
+[2022-05-25 07:08:03 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:03 : INFO] - 75 
+[2022-05-25 07:08:04 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:04 : INFO] - 75 
+[2022-05-25 07:08:05 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:05 : INFO] - 75 
+[2022-05-25 07:08:06 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:06 : INFO] - 75 
+[2022-05-25 07:08:07 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:07 : INFO] - 75 
+[2022-05-25 07:08:09 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:09 : INFO] - 75 
+[2022-05-25 07:08:12 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:12 : INFO] - 75 
+[2022-05-25 07:08:14 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:14 : INFO] - 75 
+[2022-05-25 07:08:15 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/blockchain-trends-2021.jpg.The file was compressed from 171.43 KB to 146.81 KB saving 14.36 percent using WP-Optimize 
+[2022-05-25 07:08:15 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2022-05-25 07:08:15 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2022-05-25 07:08:15 : INFO] - Re_Smush_It_Task - Attachment ID : 347, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:15 : INFO] - 75 
+[2022-05-25 07:08:17 : INFO] - Backing up the original image - 2022/05/Key-benefits-of-blockchain-technology-for-HR-updraft-pre-smush-original.jpg 
+[2022-05-25 07:08:17 : INFO] - Re_Smush_It_Task - Attachment ID : 347, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:17 : INFO] - 75 
+[2022-05-25 07:08:18 : INFO] - Re_Smush_It_Task - Attachment ID : 347, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:18 : INFO] - 75 
+[2022-05-25 07:08:20 : INFO] - Re_Smush_It_Task - Attachment ID : 347, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:20 : INFO] - 75 
+[2022-05-25 07:08:21 : INFO] - Re_Smush_It_Task - Attachment ID : 347, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:21 : INFO] - 75 
+[2022-05-25 07:08:22 : INFO] - Re_Smush_It_Task - Attachment ID : 347, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:22 : INFO] - 75 
+[2022-05-25 07:08:23 : INFO] - Re_Smush_It_Task - Attachment ID : 347, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:23 : INFO] - 75 
+[2022-05-25 07:08:25 : INFO] - Re_Smush_It_Task - Attachment ID : 347, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:25 : INFO] - 75 
+[2022-05-25 07:08:26 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/Key-benefits-of-blockchain-technology-for-HR.jpg.The file was compressed from 71.92 KB to 61.99 KB saving 13.81 percent using WP-Optimize 
+[2022-05-25 07:08:26 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2022-05-25 07:08:26 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2022-05-25 07:08:26 : INFO] - Re_Smush_It_Task - Attachment ID : 348, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:26 : INFO] - 75 
+[2022-05-25 07:08:28 : INFO] - Backing up the original image - 2022/05/AIG-Standard-Chartered-Multinational-Smart-Contract-updraft-pre-smush-original.jpg 
+[2022-05-25 07:08:28 : INFO] - Re_Smush_It_Task - Attachment ID : 348, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:28 : INFO] - 75 
+[2022-05-25 07:08:29 : INFO] - Re_Smush_It_Task - Attachment ID : 348, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:29 : INFO] - 75 
+[2022-05-25 07:08:30 : INFO] - Re_Smush_It_Task - Attachment ID : 348, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:30 : INFO] - 75 
+[2022-05-25 07:08:31 : INFO] - Re_Smush_It_Task - Attachment ID : 348, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:31 : INFO] - 75 
+[2022-05-25 07:08:31 : INFO] - 
+ 
+[2022-05-25 07:08:31 : INFO] - Header for logs at time:  Wed, 25 May 2022 07:08:31 +0000 on http://localhost/portfolio 
+[2022-05-25 07:08:31 : INFO] - WP: 6.0 
+[2022-05-25 07:08:31 : INFO] - PHP: 7.4.26 (apache2handler, Windows NT DESKTOP-HQT8RQ3 10.0 build 19043 (Windows 10) AMD64) 
+[2022-05-25 07:08:31 : INFO] - MySQL: 5.7.36 
+[2022-05-25 07:08:31 : INFO] - WPLANG: en_US 
+[2022-05-25 07:08:31 : INFO] - Server: Apache/2.4.51 (Win64) PHP/7.4.26 
+[2022-05-25 07:08:31 : INFO] - Outbound connections: N 
+[2022-05-25 07:08:31 : INFO] - safe_mode: 0 
+[2022-05-25 07:08:31 : INFO] - max_execution_time: 120 
+[2022-05-25 07:08:31 : INFO] - memory_limit: 128M (used: 6.7M | 4M) 
+[2022-05-25 07:08:31 : INFO] - multisite: N 
+[2022-05-25 07:08:31 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-25 07:08:31 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2022-05-25 07:08:31 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2022-05-25 07:08:31 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2022-05-25 07:08:31 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-05-25 07:08:32 : INFO] - Re_Smush_It_Task - Attachment ID : 348, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:32 : INFO] - 75 
+[2022-05-25 07:08:34 : INFO] - Re_Smush_It_Task - Attachment ID : 348, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:34 : INFO] - 75 
+[2022-05-25 07:08:35 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/AIG-Standard-Chartered-Multinational-Smart-Contract.jpg.The file was compressed from 87.41 KB to 39.86 KB saving 54.4 percent using WP-Optimize 
+[2022-05-25 07:08:35 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2022-05-25 07:08:35 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2022-05-25 07:08:35 : INFO] - Re_Smush_It_Task - Attachment ID : 432, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:35 : INFO] - 75 
+[2022-05-25 07:08:36 : INFO] - Backing up the original image - 2022/05/codepen-1-updraft-pre-smush-original.jpg 
+[2022-05-25 07:08:36 : INFO] - Re_Smush_It_Task - Attachment ID : 432, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:36 : INFO] - 75 
+[2022-05-25 07:08:37 : INFO] - Re_Smush_It_Task - Attachment ID : 432, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:37 : INFO] - 75 
+[2022-05-25 07:08:38 : INFO] - Re_Smush_It_Task - Attachment ID : 432, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:38 : INFO] - 75 
+[2022-05-25 07:08:39 : INFO] - Re_Smush_It_Task - Attachment ID : 432, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:39 : INFO] - 75 
+[2022-05-25 07:08:40 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/codepen-1.jpg.The file was compressed from 10.79 KB to 10.31 KB saving 4.49 percent using WP-Optimize 
+[2022-05-25 07:08:40 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2022-05-25 07:08:40 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2022-05-25 07:08:40 : INFO] - Re_Smush_It_Task - Attachment ID : 433, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:40 : INFO] - 75 
+[2022-05-25 07:08:42 : INFO] - Backing up the original image - 2022/05/clock-updraft-pre-smush-original.png 
+[2022-05-25 07:08:42 : INFO] - Re_Smush_It_Task - Attachment ID : 433, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:42 : INFO] - 75 
+[2022-05-25 07:08:43 : INFO] - Re_Smush_It_Task - Attachment ID : 433, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:43 : INFO] - 75 
+[2022-05-25 07:08:44 : INFO] - Re_Smush_It_Task - Attachment ID : 433, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:44 : INFO] - 75 
+[2022-05-25 07:08:45 : INFO] - Re_Smush_It_Task - Attachment ID : 433, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:45 : INFO] - 75 
+[2022-05-25 07:08:47 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/clock.png.The file was compressed from 141.90 KB to 34.38 KB saving 75.77 percent using WP-Optimize 
+[2022-05-25 07:08:47 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2022-05-25 07:08:47 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2022-05-25 07:08:47 : INFO] - Re_Smush_It_Task - Attachment ID : 434, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:47 : INFO] - 75 
+[2022-05-25 07:08:49 : INFO] - Backing up the original image - 2022/05/calc-e1652759053363-updraft-pre-smush-original.png 
+[2022-05-25 07:08:49 : INFO] - Re_Smush_It_Task - Attachment ID : 434, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:49 : INFO] - 75 
+[2022-05-25 07:08:50 : INFO] - Re_Smush_It_Task - Attachment ID : 434, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:50 : INFO] - 75 
+[2022-05-25 07:08:51 : INFO] - Re_Smush_It_Task - Attachment ID : 434, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:51 : INFO] - 75 
+[2022-05-25 07:08:52 : INFO] - Re_Smush_It_Task - Attachment ID : 434, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:52 : INFO] - 75 
+[2022-05-25 07:08:53 : INFO] - Re_Smush_It_Task - Attachment ID : 434, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:53 : INFO] - 75 
+[2022-05-25 07:08:54 : INFO] - Re_Smush_It_Task - Attachment ID : 434, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:54 : INFO] - 75 
+[2022-05-25 07:08:56 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/calc-e1652759053363.png.The file was compressed from 45.79 KB to 25.86 KB saving 43.53 percent using WP-Optimize 
+[2022-05-25 07:08:56 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2022-05-25 07:08:56 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2022-05-25 07:08:56 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:56 : INFO] - 75 
+[2022-05-25 07:08:57 : INFO] - Backing up the original image - 2022/05/qrcode-updraft-pre-smush-original.png 
+[2022-05-25 07:08:57 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:57 : INFO] - 75 
+[2022-05-25 07:08:58 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:08:58 : INFO] - 75 
+[2022-05-25 07:09:00 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:00 : INFO] - 75 
+[2022-05-25 07:09:01 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:01 : INFO] - 75 
+[2022-05-25 07:09:02 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:02 : INFO] - 75 
+[2022-05-25 07:09:03 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:03 : INFO] - 75 
+[2022-05-25 07:09:05 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:05 : INFO] - 75 
+[2022-05-25 07:09:06 : INFO] - Re_Smush_It_Task - Attachment ID : 554, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:06 : INFO] - 75 
+[2022-05-25 07:09:08 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/qrcode.png.The file was compressed from 37.73 KB to 15.81 KB saving 58.11 percent using WP-Optimize 
+[2022-05-25 07:09:08 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2022-05-25 07:09:08 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2022-05-25 07:09:08 : INFO] - Re_Smush_It_Task - Attachment ID : 589, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:08 : INFO] - 75 
+[2022-05-25 07:09:08 : INFO] - Backing up the original image - 2022/05/LOGO-SK-updraft-pre-smush-original.png 
+[2022-05-25 07:09:08 : INFO] - Re_Smush_It_Task - Attachment ID : 589, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:08 : INFO] - 75 
+[2022-05-25 07:09:09 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/LOGO-SK.png.The file was compressed from 4.83 KB to 2.39 KB saving 50.63 percent using WP-Optimize 
+[2022-05-25 07:09:09 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2022-05-25 07:09:09 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2022-05-25 07:09:09 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:09 : INFO] - 75 
+[2022-05-25 07:09:11 : INFO] - Backing up the original image - 2022/05/cropped-LOGO-SK-updraft-pre-smush-original.png 
+[2022-05-25 07:09:11 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:11 : INFO] - 75 
+[2022-05-25 07:09:12 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:12 : INFO] - 75 
+[2022-05-25 07:09:13 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:13 : INFO] - 75 
+[2022-05-25 07:09:14 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:14 : INFO] - 75 
+[2022-05-25 07:09:16 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:16 : INFO] - 75 
+[2022-05-25 07:09:17 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:17 : INFO] - 75 
+[2022-05-25 07:09:18 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:18 : INFO] - 75 
+[2022-05-25 07:09:19 : INFO] - Re_Smush_It_Task - Attachment ID : 590, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:19 : INFO] - 75 
+[2022-05-25 07:09:20 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/cropped-LOGO-SK.png.The file was compressed from 18.52 KB to 18.52 KB saving 0 percent using WP-Optimize 
+[2022-05-25 07:09:20 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2022-05-25 07:09:20 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2022-05-25 07:09:20 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:20 : INFO] - 75 
+[2022-05-25 07:09:21 : INFO] - Backing up the original image - 2022/05/billion-short-updraft-pre-smush-original.png 
+[2022-05-25 07:09:21 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:21 : INFO] - 75 
+[2022-05-25 07:09:22 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:22 : INFO] - 75 
+[2022-05-25 07:09:24 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:24 : INFO] - 75 
+[2022-05-25 07:09:25 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:25 : INFO] - 75 
+[2022-05-25 07:09:26 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:26 : INFO] - 75 
+[2022-05-25 07:09:27 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:27 : INFO] - 75 
+[2022-05-25 07:09:29 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:29 : INFO] - 75 
+[2022-05-25 07:09:30 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/billion-short.png.The file was compressed from 45.65 KB to 20.37 KB saving 55.37 percent using WP-Optimize 
+[2022-05-25 07:09:30 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2022-05-25 07:09:30 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2022-05-25 07:09:30 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:30 : INFO] - 75 
+[2022-05-25 07:09:31 : INFO] - 
+ 
+[2022-05-25 07:09:31 : INFO] - Header for logs at time:  Wed, 25 May 2022 07:09:31 +0000 on http://localhost/portfolio 
+[2022-05-25 07:09:31 : INFO] - WP: 6.0 
+[2022-05-25 07:09:31 : INFO] - PHP: 7.4.26 (apache2handler, Windows NT DESKTOP-HQT8RQ3 10.0 build 19043 (Windows 10) AMD64) 
+[2022-05-25 07:09:31 : INFO] - MySQL: 5.7.36 
+[2022-05-25 07:09:31 : INFO] - WPLANG: en_US 
+[2022-05-25 07:09:31 : INFO] - Server: Apache/2.4.51 (Win64) PHP/7.4.26 
+[2022-05-25 07:09:31 : INFO] - Outbound connections: N 
+[2022-05-25 07:09:31 : INFO] - safe_mode: 0 
+[2022-05-25 07:09:31 : INFO] - max_execution_time: 120 
+[2022-05-25 07:09:31 : INFO] - memory_limit: 128M (used: 6.6M | 2M) 
+[2022-05-25 07:09:31 : INFO] - multisite: N 
+[2022-05-25 07:09:31 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-25 07:09:31 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-05-25 07:09:31 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2022-05-25 07:09:31 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2022-05-25 07:09:31 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2022-05-25 07:09:35 : INFO] - Backing up the original image - 2022/05/clock-and-calc-updraft-pre-smush-original.png 
+[2022-05-25 07:09:35 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:35 : INFO] - 75 
+[2022-05-25 07:09:36 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:36 : INFO] - 75 
+[2022-05-25 07:09:39 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:39 : INFO] - 75 
+[2022-05-25 07:09:40 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:40 : INFO] - 75 
+[2022-05-25 07:09:42 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:42 : INFO] - 75 
+[2022-05-25 07:09:43 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:43 : INFO] - 75 
+[2022-05-25 07:09:47 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:47 : INFO] - 75 
+[2022-05-25 07:09:49 : INFO] - Re_Smush_It_Task - Attachment ID : 622, Started on : May 25, 2022 07:05:32 
+[2022-05-25 07:09:49 : INFO] - 75 
+[2022-05-25 07:09:51 : INFO] - Successfully optimized the image - C:\wamp64\www\portfolio/wp-content/uploads/2022/05/clock-and-calc.png.The file was compressed from 410.02 KB to 177.66 KB saving 56.67 percent using WP-Optimize 
+[2022-05-25 07:09:51 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2022-05-25 07:09:51 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-05-25 07:09:51 : INFO] - Successfully processed the queue (smush). 24 tasks were processed out of 24. 
+[2022-05-25 07:09:51 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-05-25 07:09:51 : INFO] - Cleaning up tasks of type (smush). A total of 24 tasks will be deleted. 

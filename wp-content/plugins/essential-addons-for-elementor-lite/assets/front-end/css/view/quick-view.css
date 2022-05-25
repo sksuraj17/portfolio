@@ -291,6 +291,9 @@
 }
 .eael-product-popup .eael-product-image-wrap {
   width: 40%;
+  background-image: url("../../../wp-admin/images/spinner.gif");
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 @media (max-width: 767px) {
   .eael-product-popup .eael-product-image-wrap {
