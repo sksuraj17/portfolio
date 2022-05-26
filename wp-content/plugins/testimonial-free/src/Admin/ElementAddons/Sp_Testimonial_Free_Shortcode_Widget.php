@@ -28,7 +28,7 @@ class Sp_Testimonial_Free_Shortcode_Widget extends \Elementor\Widget_Base {
 	 * @return string Widget name.
 	 */
 	public function get_name() {
-		return 'real_testimonial_free_shortcode';
+		return 'real_testimonial_Pro_shortcode';
 	}
 
 	/**
@@ -105,7 +105,7 @@ class Sp_Testimonial_Free_Shortcode_Widget extends \Elementor\Widget_Base {
 		);
 
 		$this->add_control(
-			'sp_testimonial_free_shortcode',
+			'sp_testimonial_pro_shortcode',
 			array(
 				'label'       => __( 'Real Testimonial Shortcode(s)', 'testimonial-free' ),
 				'type'        => \Elementor\Controls_Manager::SELECT2,
@@ -128,7 +128,7 @@ class Sp_Testimonial_Free_Shortcode_Widget extends \Elementor\Widget_Base {
 	protected function render() {
 
 		$settings                 = $this->get_settings_for_display();
-		$sp_testimonial_shortcode = $settings['sp_testimonial_free_shortcode'];
+		$sp_testimonial_shortcode = $settings['sp_testimonial_pro_shortcode'];
 
 		if ( '' === $sp_testimonial_shortcode ) {
 			echo '<div style="text-align: center; margin-top: 0; padding: 10px" class="elementor-add-section-drag-title">Select a shortcode</div>';

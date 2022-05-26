@@ -56,7 +56,7 @@ class Frontend {
 	/**
 	 * Shortcode render.
 	 *
-	 * @param array $attributes Schortcode attributes.
+	 * @param array $attributes Shortcode attributes.
 	 *
 	 * @return string
 	 * @since 2.0

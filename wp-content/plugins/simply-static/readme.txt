@@ -2,9 +2,9 @@
 Contributors: patrickposner
 Tags: HTML, static website generator, static site, secure, fast
 Requires at least: 5.4
-Tested up to: 5.9
+Tested up to: 6.0
 Requires PHP: 7.4
-Stable tag: 2.1.5.7
+Stable tag: 2.1.5.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,19 +48,19 @@ Develop your site locally and only push the static exported website on a server.
 I highly recommend not to use another tool for local development if you are not a programmer as in most cases manual package installation is required.
 
 
-== Simply Static Hosting ==
+== Simply CDN ==
 
-Do you need an all-in-one solution to export and deploy your static website with Simply Static?
+[Simply CDN](https://simplycdn.io) is the simplest way to bring your Simply Static generated static website online.
 
-[Simply Static Hosting](https://simplystatic.io) covers the entire process from securing your WordPress website and making it only accessible to logged-in users
-to deploying your static website to a powerful CDN for maximum security and performance. It also handles RSS-Feeds, Comments, Forms, Search, Caching, and more for you.
+You can easily export your static website directly from Simply Static to Simply CDN.
 
-The installations are completely configured for you, and you can also request a migration of your current website free of charge.
+Simply CDN will optimize your static website for the best performance and security without technical challenges.
 
-This solution is mainly dedicated to non-technical users that like to get the benefits of running WordPress static, but don't have the time or knowledge to configure everything by themself.
+Take your WordPress website offline and manage it from your local computer with tools like [LocalWP](https://localwp.com/) and host your static website with Simply CDN.
 
-If you like to go the self-hosted way and you can configure deployment and your server, I would recommend going with [Simply Static Pro](https://patrickposner.dev/plugins/simply-static)
-to enhance Simply Static with solutions to handle deployment via GitHub or CDN, forms, search, and CORS for you.
+It will also send all form submissions to your configured e-mail address - there is no reason not to shut down your WordPress website anymore.
+
+What can go wrong with the 7-day free trial and the detailed [documentation](https://simplycdn.io/documentation)?
 
 
 == Simply Static Pro ==
@@ -119,6 +119,15 @@ Enable comments on your static website without the requirement of Third-Party-Pr
 After a comment was submitted, Simply Static automatically exports a new static version of the post. You don't have to do anything.
 
 Learn more about that [here](https://patrickposner.dev/docs/simply-static/search)
+
+= Multilingual =
+
+Simply Static Pro enables you to export multilingual websites build with WPML, Polylang, or Translatepress.
+
+Configure settings per language, export languages individually or all languages at once.
+
+You can even use the built-in language switchers from the most popular translation plugins without modifications.
+
 
 = Get the Pro version =
 
@@ -190,6 +199,13 @@ Simply Static creates a static copy of your WordPress site that is intended to b
 3. Diagnostics
 
 == Changelog ==
+
+= 2.1.5.8 =
+
+* added SSL to diagnostics
+* added filter for origin URL
+* increased general ping time
+* Windows support: replacing paths
 
 = 2.1.5.7 =
 

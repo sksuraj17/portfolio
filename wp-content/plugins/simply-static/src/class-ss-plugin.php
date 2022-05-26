@@ -14,7 +14,7 @@ class Plugin {
 	 * Plugin version
 	 * @var string
 	 */
-	const VERSION = '2.1.5.7';
+	const VERSION = '2.1.5.8';
 
 	/**
 	 * The slug of the plugin; used in actions, filters, i18n, table names, etc.
@@ -850,9 +850,8 @@ class Plugin {
 	public function add_info_links( $info_text ) {
 		ob_start();
 		?>
-		<a href="https://patrickposner.dev/plugins/simply-static" target="_blank">Go Pro</a>	
-		<a href="https://patrickposner.dev/docs/simply-static" target="_blank">Documentation</a>
-		<a href="https://wordpress.org/plugins/simply-static/" target="_blank">Support</a>
+        <a href="https://patrickposner.dev/plugins/simply-static" target="_blank">Simply Static Pro</a>
+        <a href="https://simplycdn.io" target="_blank">Simply CDN</a>
 		<?php
 		$info_text = apply_filters( 'simply_static_info_links', ob_get_clean() );
 		echo $info_text;

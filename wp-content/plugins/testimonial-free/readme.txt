@@ -3,8 +3,8 @@ Contributors: shapedplugin, rubel_miah, khalilu, shamimmiashuhagh
 Donate link: http://shapedplugin.com/donate
 Tags: testimonial, testimonials, testimonial showcase, testimonials showcase, testimonial slider, testimonials slider, testimonial carousel, testimonial front-end submission form, testimonials widget, easy testimonial, testimonial rotator, random testimonials, custom testimonial, collect testimonials, social proof, simple testimonial plugin, best testimonials showcase plugin, free testimonial, customers reviews, real testimonials
 Requires at least: 4.0
-Tested up to: 5.9.3
-Stable tag: 2.5.4
+Tested up to: 6.0
+Stable tag: 2.5.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -317,6 +317,11 @@ Thank you!
 
 
 == Changelog ==
+
+= 2.5.5 - May 17, 2022 =
+* Tested: WordPress 6.0 compatibility.
+* Fix: Deprecated warning of Elementor block.
+* Fix: Image height is distorted with Twenty Twenty-Two.
 
 = 2.5.4 - Apr 23, 2022 =
 * Fix: Some assets of the Real Testimonial admin panel are not loaded properly in a few websites as that hosting directory is different.

@@ -18,6 +18,7 @@ use ShapedPlugin\TestimonialFree\Frontend\Frontend;
 use ShapedPlugin\TestimonialFree\Frontend\Views\Deprecated_Shortcodes;
 use ShapedPlugin\TestimonialFree\Admin\Sp_Testimonial_Free_Gutenberg_Block;
 use ShapedPlugin\TestimonialFree\Admin\Sp_Testimonial_Free_Element_Shortcode_Block;
+use ShapedPlugin\TestimonialFree\Admin\Sp_Testimonial_Free_Element_Shortcode_Block_Deprecated;
 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
@@ -117,6 +118,7 @@ class TestimonialFree {
 	 * @return void
 	 */
 	public function init_actions() {
+		
 		add_action( 'plugins_loaded', array( $this, 'load_text_domain' ) );
 		add_action( 'manage_spt_shortcodes_posts_custom_column', array( $this, 'add_shortcode_form' ), 10, 2 );
 		add_action( 'manage_spt_testimonial_posts_custom_column', array( $this, 'add_testimonial_extra_column' ), 10, 2 );
@@ -143,6 +145,7 @@ class TestimonialFree {
 		require_once ABSPATH . 'wp-admin/includes/plugin.php';
 		if ( ( is_plugin_active( 'elementor/elementor.php' ) || is_plugin_active_for_network( 'elementor/elementor.php' ) ) ) {
 			new Sp_Testimonial_Free_Element_Shortcode_Block();
+			new Sp_Testimonial_Free_Element_Shortcode_Block_Deprecated();
 		}
 	}
 

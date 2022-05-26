@@ -32,6 +32,7 @@ class DBUpdates {
 		'2.1.5'  => 'updates/update-2.1.5.php',
 		'2.2.5'  => 'updates/update-2.2.5.php',
 		'2.2.10' => 'updates/update-2.2.10.php',
+		'2.5.5'  => 'updates/update-2.5.5.php',
 	);
 
 	/**

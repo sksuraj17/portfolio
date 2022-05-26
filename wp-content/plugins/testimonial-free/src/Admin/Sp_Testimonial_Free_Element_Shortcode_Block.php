@@ -1,6 +1,6 @@
 <?php
 /**
- * Framework options.class file.
+ * The elementor block of the plugin.
  *
  * @link https://shapedplugin.com
  * @since 2.0.0
@@ -113,7 +113,7 @@ class Sp_Testimonial_Free_Element_Shortcode_Block {
 	 */
 	public function init() {
 		// Add Plugin actions.
-		add_action( 'elementor/widgets/widgets_registered', array( $this, 'init_widgets' ) );
+		add_action( 'elementor/widgets/register', array( $this, 'init_widgets' ) );
 	}
 
 	/**
@@ -127,7 +127,7 @@ class Sp_Testimonial_Free_Element_Shortcode_Block {
 	 */
 	public function init_widgets() {
 		// Register widget.
-		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new ElementAddons\Sp_Testimonial_Free_Shortcode_Widget() );
+		\Elementor\Plugin::instance()->widgets_manager->register( new ElementAddons\Sp_Testimonial_Free_Shortcode_Widget() );
 
 	}
 

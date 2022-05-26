@@ -70,6 +70,7 @@ if ( ! class_exists( 'Sp_Testimonial_Free_Gutenberg_Block_Init' ) ) {
 			wp_enqueue_style( 'tfree-style', SP_TFREE_URL . 'Frontend/assets/css/style.min.css', array(), SP_TFREE_VERSION );
 
 		}
+
 		/**
 		 * Shortcode list.
 		 *
@@ -124,7 +125,7 @@ if ( ! class_exists( 'Sp_Testimonial_Free_Gutenberg_Block_Init' ) ) {
 			 * Register Gutenberg block on server-side.
 			 */
 			register_block_type(
-				'sp-testimonial-free/shortcode',
+				'sp-testimonial-pro/shortcode',
 				array(
 					'attributes'      => array(
 						'shortcode'          => array(

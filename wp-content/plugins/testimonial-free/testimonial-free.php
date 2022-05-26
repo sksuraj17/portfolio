@@ -12,7 +12,7 @@
  * Plugin Name:     Real Testimonials
  * Plugin URI:      https://shapedplugin.com/real-testimonials/?ref=1
  * Description:     Most Customizable and Powerful Testimonials Showcase Plugin for WordPress that allows you to manage and display Testimonials or Reviews on any page or widget.
- * Version:         2.5.4
+ * Version:         2.5.5
  * Author:          ShapedPlugin
  * Author URI:      https://shapedplugin.com/
  * Text Domain:     testimonial-free
@@ -37,7 +37,7 @@ function is_testimonial_pro_active() {
 }
 
 define( 'SP_TFREE_NAME', 'Real Testimonials' );
-define( 'SP_TFREE_VERSION', '2.5.4' );
+define( 'SP_TFREE_VERSION', '2.5.5' );
 define( 'SP_TFREE_PATH', plugin_dir_path( __FILE__ ) . 'src/' );
 define( 'SP_TFREE_URL', plugin_dir_url( __FILE__ ) . 'src/' );
 define( 'SP_TFREE_BASENAME', plugin_basename( __FILE__ ) );
